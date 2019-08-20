@@ -1,0 +1,535 @@
+"ID","FNAME","LNAME","SEX","AGE","ADDRESS","ZIPCODE","WAGE"
+"1","Maggie","Paynne",1,35,"3247 Harrison Street",94122,3.43720088681511
+"2","Nettie","Balas",1,57,"4257 Langtown Road",43609,5.88429036967201
+"3","Rick","Butler",0,19,"3141 Martha Street",86023,3.06676738515331
+"4","James","Marino",0,22,"1001 Driftwood Road",95113,4.39864985276452
+"5","Adrian","Murphy",0,35,"4555 Byers Lane",95826,4.90302513047337
+"6","Michel","Montoya",0,28,"4283 Virgil Street",32459,10.922174367412
+"7","Jason","Hunter",0,43,"3919 Turkey Pen Road",10016,10.7956372150865
+"8","Jesus","Lagasse",0,27,"1281 Chandler Hollow Road",15106,6.94715794160347
+"9","Dick","Miller",0,33,"3212 Polk Street",85701,8.03917875319223
+"10","Michael","Conway",0,27,"2747 Ashwood Drive",51016,8.08475742917989
+"11","Russel","Steffen",0,35,"291 Bobcat Drive",20005,12.3259325109354
+"12","Jon","Arthur",0,37,"544 Pike Street",92123,9.12004595313918
+"13","Jack","Dean",0,41,"1895 Marcus Street",35802,5.64529706337905
+"14","Johnn","Pitts",0,45,"2689 Sycamore Lake Road",54301,10.2463953668385
+"15","Jim","Corchado",0,44,"1561 Dola Mine Road",27707,8.28271355828251
+"16","Earl","Schaffer",0,55,"619 Braxton Street",60423,7.82315060541396
+"17","Jerome","Jordan",0,57,"4885 John Avenue",48912,5.96780819495097
+"18","Ron","Young",0,44,"81 Willow Oaks Lane",70501,13.1820613163487
+"19","Karl","Vaughn",0,33,"2424 Kooter Lane",28150,7.8792913211133
+"20","Will","Mauldin",0,51,"301 Ripple Street",48653,10.1990626411754
+"21","Alysha","Abbott",1,34,"2588 Barfield Lane",46254,7.78372834133313
+"22","Phil","Dye",0,55,"1491 Stoney Lonesome Road",17701,5.90049443646263
+"23","Steffen","Morris",0,27,"442 Stroop Hill Road",30093,9.06269622797072
+"24","Erick","Walker",0,31,"4917 Allison Avenue",23462,7.12773369826021
+"25","Alvin","Swell",0,41,"664 Chicago Avenue",93291,9.3922438167843
+"26","Dave","Greer",0,57,"3996 Cecil Street",60062,6.37796126463152
+"27","Rahul","Owens",0,26,"140 Werninger Street",77036,4.96133151432374
+"28","Raymon","Nobble",0,46,"295 Williams Lane",67214,6.70188960488732
+"29","Kelly","Vogt",1,26,"1560 Saint James Drive",17670,3.89671850133286
+"30","Jorge","Johnsson",0,26,"1050 Hannah Street",28202,7.6858384229533
+"31","Jon","Burger",0,33,"2696 Smithfield Avenue",79401,7.45554506384427
+"32","Maria","Clark",1,64,"803 Little Acres Lane",62420,7.93314256262547
+"33","Rob","Calvert",0,33,"1275 Wilkinson Court",33901,6.62557635896681
+"34","Michel","Wallace",1,24,"2636 Hillcrest Lane",92501,3.98244657695259
+"35","David","Bontright",0,37,"4046 Elk Creek Road",30071,8.85662290100614
+"36","Alfredo","Burell",0,54,"4000 Simpson Square",73564,9.50761227609325
+"37","James","Jennkins",0,38,"2951 Harron Drive",21201,7.89701984437217
+"38","Scott","Morris",0,53,"2502 Stonecoal Road",44902,11.9352383095961
+"39","Julius","Davis",0,21,"701 Woodbridge Lane",48124,8.04374322848132
+"40","Greg","Rosse",0,30,"3358 Davis Lane",80239,9.02869101421895
+"41","Dan","Sulivan",0,18,"640 Watson Street",8855,8.26124775516355
+"42","Jack","Lagunass",0,34,"672 Meadowcrest Lane",40507,9.95310996035497
+"43","Kelvin","Delgado",0,32,"2121 Jefferson Street",23502,6.01029856343991
+"44","Marine","Wells",1,31,"3685 Diamond Cove",2903,3.7960127511958
+"45","Joe","Dattillo",0,27,"4962 Candlelight Drive",77011,4.12243459838953
+"46","Beck","Billington",1,28,"1868 Poe Road",77032,5.65567869434314
+"47","Robert","Robertsson",0,34,"721 Elk Avenue",48892,9.16827875716484
+"48","Rich","Mooreland",0,29,"1819 Crowfield Road",85012,7.07441567122864
+"49","Deandrei","Fullers",0,47,"1463 Lake Forest Drive",11747,6.24325623717608
+"50","Richard","Schotfield",0,27,"1711 Marion Street",5403,9.13443829633412
+"51","Joseph","Kenedy",0,25,"4489 Zappia Drive",40507,7.99611416188664
+"52","Glenne","Bowen",0,35,"2055 Southern Street",11729,14.2017322996388
+"53","Conny","Butlers",1,25,"4388 Irish Lane",53703,4.09603327412053
+"54","Barbara","Morton",1,34,"1773 Evergreen Lane",90017,5.91838989303328
+"55","Oscar","Spyer",0,19,"3378 Walnut Street",39208,5.8886255330773
+"56","Barby","Flecher",1,29,"1338 Green Acres Road",27823,6.62267982421851
+"57","Ed","Barett",0,36,"3740 Confederate Drive",13088,8.0130446912071
+"58","Horace","Voygel",0,29,"4920 Pheasant Ridge Road",19139,5.57361057188678
+"59","Johny","Smiths",0,40,"3527 Burke Street",2210,10.515628822166
+"60","Robyn","Lawrence",1,46,"4233 Blue Spruce Lane",21076,5.31595951145318
+"61","George","MacMahann",0,34,"601 Hinkle Deegan Lake Road",40507,9.57274353779995
+"62","Sean","Capute",0,42,"3520 Nuzum Court",14221,10.5396292413729
+"63","Will","Rubecheaux",0,64,"4067 Farnum Road",10048,5.45426123998001
+"64","Darwin","Gonzales",0,21,"744 Franklin Street",36744,6.74377476573618
+"65","Herman","White",0,24,"4352 Rogers Street",45236,10.3175406427992
+"66","Greg","Barfield",0,43,"4930 Koontz Lane",91601,7.99682970269558
+"67","Michael","Candler",0,37,"2631 Pike Street",92126,8.62571502303812
+"68","Glen","Miracle",0,37,"1832 Shearwood Forest Drive",3801,8.90406491106975
+"69","Erin","Richmond",1,56,"4486 Lady Bug Drive",11101,8.09561409830039
+"70","Ricardo","McLood",0,57,"1571 Cottonwood Lane",37207,6.6267809495191
+"71","Christ","Mayier",0,20,"236 Cantebury Drive",10013,7.33064103701781
+"72","Ralph","Ross",0,40,"915 Birch  Street",79901,10.3874313310335
+"73","David","Curran",0,31,"4368 Park Boulevard",50472,5.68511306342611
+"74","German","Willis",0,22,"569 Kenwood Place",33442,3.26227017135759
+"75","Mildred","Ross",1,53,"844 Colonial Drive",77461,8.03942772492161
+"76","Irman","Myers",1,55,"1075 Maple Lane",35901,4.92096720076181
+"77","Anna","Alltman",1,42,"1811 Confederate Drive",13206,9.20673612194979
+"78","Fernando","Rice",0,29,"259 Mayo Street",41042,9.33582326250999
+"79","George","Irvine",0,30,"1458 Fairfax Drive",8854,9.73684316691293
+"80","Edie","Ways",0,53,"2529 Aaron Smith Drive",17401,10.1166422640894
+"81","Thomas","Becnel",0,34,"3635 Oakdale Avenue",33440,8.35819596849113
+"82","Eddie","Herren",0,34,"420 Stratford Park",47458,11.378264747055
+"83","Dorothy","Brooke",1,60,"1943 Irving Place",63366,6.87899746190705
+"84","Robin","Thompson",1,35,"2246 Russell Street",2141,7.0158246969581
+"85","Theodore","Ducan",0,27,"1871 Hiney Road",89119,10.0979731835202
+"86","Matthew","Walker",0,31,"65 Waldeck Street",75247,6.77896197623387
+"87","Sean","Mclville",0,35,"3023 White Oak Drive",64108,11.5430711065115
+"88","Shelby","Jorge",1,36,"2401 Sycamore Lake Road",53081,8.46887685498368
+"89","Vikie","New",1,24,"3343 Rebecca Street",60607,5.191347168346
+"90","Rodney","Staley",0,54,"189 Russell Street",1840,8.72851073594163
+"91","Bruce","Marrufo",0,20,"3743 West Fork Drive",33324,8.48234955399101
+"92","Johny","Baker",0,41,"3140 Oakridge Lane",75234,10.0597962118116
+"93","Elmer","Attwood",0,19,"4206 Ruckman Road",73110,7.41155256237143
+"94","Elinor","Kendrick",1,28,"1643 Johnson Street",27601,6.45716121765519
+"95","Chris","Perez",0,41,"4158 Sycamore Street",95127,9.48595125045319
+"96","Douglas","Rhoades",0,26,"2955 Irving Road",43081,6.37363137046196
+"97","Sharon","Holliman",1,30,"2629 Filbert Street",19020,7.60286114702512
+"98","Damien","Hoover",0,51,"3066 Austin Avenue",31401,13.5756038823403
+"99","Dorothy","White",1,37,"810 Filbert Street",19103,6.74439487812818
+"100","Jeffrey","Nunez",0,33,"1505 Poplar Lane",33165,7.39255493117077
+"101","Dustin","Clifton",0,30,"4284 Trainer Avenue",52803,6.43241094392991
+"102","Anthony","Tillman",0,28,"2852 Hill Croft Farm Road",95926,2.48182746153725
+"103","Dan","Lander",0,26,"1745 Sunrise Road",89119,8.92061617886389
+"104","Randy","Jones",0,41,"4035 Sharon Lane",46563,8.8960551178015
+"105","Kelly","Clark",1,33,"1567 Lena Lane",39157,6.37087582329525
+"106","Randall","Sosie",0,27,"2836 Virginia Street",60062,8.11437562455798
+"107","Harrison","Parin",0,41,"1940 Elk City Road",71101,8.89404692172464
+"108","James","Sandoval",0,55,"4949 Skips Lane",85553,3.08405096471983
+"109","George","Sandifer",0,22,"3519 Ridge Road",67330,7.93697832790644
+"110","Roger","Milburn",0,56,"4991 Graystone Lakes",31213,8.40989728288017
+"111","Rodney","Hudson",0,29,"508 Maud Street",19801,6.72617479166302
+"112","Danny","Geis",0,29,"2907 Northwest Boulevard",20008,5.16221128178549
+"113","Alfred","Peterson",0,58,"3252 Hartland Avenue",54303,9.45797053520788
+"114","Otis","Klein",0,26,"2474 Traction Street",29339,9.65786825016946
+"115","Elie","Shutt",0,46,"305 Tanglewood Road",38654,8.75597865036353
+"116","Nicholas","Williams",0,25,"3434 Court Street",63146,7.78706716682629
+"117","Phil","Gustavson",0,28,"2363 Abner Road",54487,7.46971276877285
+"118","Rob","Moor",0,30,"4368 Pleasant Hill Road",90706,7.92744193835498
+"119","Sarah","Bowser",1,36,"560 Collins Avenue",43215,9.80093596156853
+"120","Alexander","Perez",0,30,"4871 Charmaine Lane",79373,7.24586935582771
+"121","Scott","Skidmore",0,25,"1513 Ashmor Drive",56501,8.52920178641287
+"122","Gina","Stimpson",1,33,"3324 Marie Street",20707,8.97010379547903
+"123","Peter","Howard",0,46,"3639 Lady Bug Drive",81212,9.44164542838955
+"124","Norman","Driscoll",0,38,"4684 Palmer Road",43085,10.8967321277602
+"125","Matthew","Rife",0,24,"4536 Waterview Lane",87109,7.06102652327442
+"126","Manuel","Zamorano",0,23,"2266 Bel Meadow Drive",91761,6.90960449536105
+"127","Blanche","Stephens",1,45,"2528 Blane Street",63104,5.6098444742841
+"128","Hugh","Allison",0,37,"2236 Sussex Court",76541,9.24908604602921
+"129","Berniece","Costello",1,24,"4730 Leverton Cove Road",1109,3.98978527116547
+"130","Alejandro","O'Neill",0,34,"2309 Eden Drive",23803,9.12767721305031
+"131","Richard","Easterwood",0,19,"2404 Seltice Way",83814,5.4606457400712
+"132","Santos","Anderson",0,21,"1605 Woodhill Avenue",20705,8.00568586689415
+"133","George","Kittelson",0,26,"2947 McDonald Avenue",32803,6.93621393802531
+"134","Daren","Baker",0,22,"1753 Jim Rosa Lane",94920,8.02933716646858
+"135","Derrick","Moorris",0,31,"885 Hall Street",89101,5.18613644027709
+"136","Shane","Cooper",0,25,"3425 Grasselli Street",5101,7.25559033824346
+"137","Joseph","Kipp",0,20,"2205 Blackwell Street",99737,5.57133340369129
+"138","Clarence","Nathaniel",0,56,"770 Hayhurst Lane",48219,5.88547871007173
+"139","Daniel","Bingham",0,53,"1760 Johnny Lane",53202,8.5271537605155
+"140","Michael","Knight",0,27,"1060 Bingamon Branch Road",10990,8.07998322364648
+"141","Gregory","Long",0,30,"2082 Tanglewood Road",39337,8.02386778415286
+"142","Scott","Kish",0,36,"163 Cardinal Lane",44115,10.1590605289173
+"143","Scotty","Mitchell",0,32,"1703 West Fork Drive",33176,7.50436159281614
+"144","Roy","Brewer",0,45,"4774 Rollins Road",69346,9.48244852000303
+"145","William","Sokolowski",0,43,"4400 Adams Avenue",20707,6.68629461303845
+"146","Tim","Greenwood",0,56,"673 Deer Ridge Drive",7201,8.64145583368568
+"147","Judi","Bradley",1,21,"1930 Timberbrook Lane",80202,3.63227991332827
+"148","Sheldon","Loove",0,59,"2229 Westwood Avenue",11716,11.7237894742274
+"149","Frank","Taner",0,34,"3053 Haul Road",94041,9.10763052414584
+"150","Lynne","Phillips",0,26,"3208 Hillhaven Drive",90063,4.86491583929534
+"151","Annie","Moore",1,45,"3509 Weekley Street",78205,3.47521615791165
+"152","Harold","Arthur",0,45,"47 Chestnut Street",34642,10.0090605526556
+"153","Dan","Kincer",0,23,"3809 Pride Avenue",11206,6.03840370943533
+"154","James","Gary",0,37,"2131 Heavner Avenue",30071,8.69384412169555
+"155","Francis","Ulmer",0,19,"1837 Payne Street",24641,5.48352015180979
+"156","John","Bertsch",0,31,"2893 Point Street",60620,7.31496492886056
+"157","Albert","Marshall",0,40,"1892 Ray Court",28401,15.1056450656449
+"158","Barry","Hamrick",0,41,"24 Ben Street",12205,10.7098360352638
+"159","Robert","Holle",0,22,"1716 Birch  Street",79924,8.28020412446791
+"160","Angela","Perkins",1,22,"4588 Center Street",97401,7.27467182166419
+"161","Alison","Steck",1,48,"2406 Marshall Street",21218,9.73882735677589
+"162","Christopher","Sartor",0,51,"2487 Bridge Avenue",70658,10.6176210204777
+"163","Phyllis","Barnett",1,36,"4110 Luke Lane",74601,9.0716253355043
+"164","Juan","McGhee",0,35,"4430 Small Street",10017,9.31929401135495
+"165","Edna","Allen",1,46,"2564 Lakeland Park Drive",30501,9.79182725687869
+"166","Matthew","Elms",0,31,"266 Hilltop Haven Drive",7102,11.3845645480826
+"167","Julio","Toribio",0,30,"4251 Pineview Drive",56042,9.13595836501468
+"168","Wesley","Bates",0,22,"3939 Armbrester Drive",90505,12.4048961935574
+"169","Scott","Hollingshead",0,55,"3670 John Avenue",49201,14.8830330551526
+"170","Jennifer","Sorenson",1,42,"3458 Better Street",64105,7.13657111906624
+"171","Dorcas","Tillotson",1,21,"3970 Myra Street",2904,8.34508061392445
+"172","Jose","Huffman",0,60,"1920 Platinum Drive",15205,10.5380001878824
+"173","Betty","Smith",1,25,"778 Goldcliff Circle",20005,5.85190723619305
+"174","Lorena","Reedy",1,50,"2802 Larry Street",53233,9.34657666609082
+"175","Thomas","Schafer",0,42,"2785 Hoffman Avenue",10013,11.7687989981165
+"176","Jeff","Hertzog",0,40,"4124 Byrd Lane",87102,11.5976136356663
+"177","Dorothy","Summers",1,43,"3347 Parker Drive",44115,13.1699443103905
+"178","Jerry","Rondeau",0,33,"884 Conifer Drive",98168,10.4111017798129
+"179","Heather","Dunn",1,60,"4001 Clinton Street",72046,8.94119990371597
+"180","Robert","Pastrana",0,52,"4515 Radford Street",40242,10.5577965036308
+"181","Carlton","Newberry",0,53,"2598 Irish Lane",53562,16.2594458549335
+"182","Robert","Fernandez",0,30,"3380 Ferguson Street",1757,8.16524660133751
+"183","Richard","Ballard",0,37,"3884 Sugarfoot Lane",46225,15.6422106327133
+"184","Stephen","McCusker",0,32,"1415 Clair Street",76102,9.92250043810277
+"185","Sergio","Garrison",0,44,"750 Buckhannan Avenue",13224,15.8165247094191
+"186","William","Kramer",0,32,"4881 Christie Way",2199,14.7101729212467
+"187","Myrna","Anderson",1,38,"242 Renwick Drive",19034,13.2018578420242
+"188","Kristopher","Carter",0,44,"1720 Byrd Lane",87020,7.91308901433287
+"189","Charles","Lund",0,36,"2231 Farm Meadow Drive",37209,10.3555597329638
+"190","Judy","Deyoung",1,38,"1281 Elmwood Avenue",85225,12.533754168512
+"191","Bonnie","Weight",1,56,"827 Mulberry Avenue",72211,9.21609298925975
+"192","Gary","Champion",0,32,"771 Browning Lane",13101,10.1241342958926
+"193","Phyllis","Garrido",1,25,"1669 Watson Street",8052,5.48879647613889
+"194","Vanessa","Johnson",1,37,"3648 Pheasant Ridge Road",19103,10.1077785483903
+"195","Michael","Carlson",0,36,"3975 Feathers Hooves Drive",11714,6.62974704737437
+"196","William","Hunter",0,29,"1512 Pineview Drive",51347,14.1803192564847
+"197","Elaine","Meadows",1,48,"3531 Oakdale Avenue",33825,11.8219414221188
+"198","Theodore","Holbrook",0,36,"2499 Oakdale Avenue",33823,13.6882850700663
+"199","Robert","Okamoto",0,55,"2638 Bridge Avenue",70583,11.5922162544092
+"200","Daniel","Whitehair",0,42,"574 Frederick Street",95823,10.2148229115145
+"201","Jason","Volpe",0,61,"252 McDowell Street",37052,14.4546118164481
+"202","Alan","Montes",0,29,"3847 Fraggle Drive",60173,9.22517670442823
+"203","Joshua","Agar",0,37,"4747 Franklin Avenue",78476,12.0372071917213
+"204","Ella","Gardner",1,19,"4100 Clark Street",60515,5.34543991645749
+"205","Joyce","Armstrong",1,28,"227 Cost Avenue",20027,10.4011596266972
+"206","Patricia","Harding",1,21,"2959 Edwards Street",28560,6.93849487514424
+"207","Robert","Despain",0,52,"3800 Centennial Farm Road",51249,13.6819760917125
+"208","Ruth","Ceballos",1,33,"4444 Ben Street",12210,7.42592175437399
+"209","Louise","McMahon",1,33,"3091 Jones Avenue",27265,9.91244146742095
+"210","Bernard","Harris",0,48,"4918 Melm Street",2852,17.1264350350733
+"211","Edward","Johnson",0,38,"3154 Pointe Lane",33024,14.9149256539263
+"212","Patricia","Gross",1,52,"2351 Roy Alley",80123,8.47291379202974
+"213","Whitney","Ash",0,34,"870 Del Dew Drive",20770,9.33125509146039
+"214","John","Salazar",0,34,"2872 Garrett Street",19108,11.5265086382823
+"215","Joseph","Schley",0,42,"2670 Gore Street",77006,8.87601095863924
+"216","Christian","Finnell",0,22,"2868 Rosewood Lane",10016,5.40514282133776
+"217","Regina","Winn",1,47,"681 Thunder Road",94063,4.87954603985059
+"218","Shannon","Bobbitt",0,61,"2620 Pyramid Valley Road",52632,7.75120505123319
+"219","Wanda","Speed",1,23,"1723 Thomas Street",60062,4.15872597397074
+"220","Alexandra","Snavely",1,36,"3700 Clement Street",30303,5.7657549563098
+"221","Harry","Hedley",0,46,"3588 Hiney Road",58374,10.1432863996634
+"222","April","Tyler",1,42,"2662 Fancher Drive",75212,5.05754092765678
+"223","Juanita","Cox",1,63,"2756 Boone Street",77995,7.93191988868459
+"224","Manuel","Moore",0,25,"3430 Parker Drive",44115,5.53615514772908
+"225","Kyle","Williamson",0,38,"1070 Briarwood Road",64769,7.21236207033723
+"226","Judith","Brunner",1,28,"4783 Church Street",11201,5.38327143854428
+"227","Sylvester","Duffy",0,38,"969 Tanglewood Road",38801,12.088854538894
+"228","Paula","Brownlee",1,50,"4911 Barrington Court",72024,4.43738736418922
+"229","Elizabeth","Murphy",1,21,"2458 Sycamore Lake Road",54304,2.33110899478097
+"230","Vivian","Wood",1,28,"70 Diamond Street",28801,4.78654070699652
+"231","Anthony","Shelton",0,64,"3125 Bates Brothers Road",43081,10.3114149148171
+"232","Andrea","Cole",1,26,"837 Leroy Lane",57702,8.15449297887805
+"233","Kara","Dykema",1,33,"1939 Pheasant Ridge Road",19103,6.8841997446923
+"234","William","Jefferson",0,23,"4304 Neuport Lane",30084,3.82797822326462
+"235","Bethany","Estep",1,23,"1620 Bridge Avenue",70663,5.69152140552989
+"236","Evan","Muro",0,34,"1194 Bassel Street",70123,9.24944137773724
+"237","Cheri","Ochoa",1,52,"3650 Boring Lane",94005,10.4275504673082
+"238","Darlene","Scott",1,32,"4783 Hardesty Street",12207,6.36491332833815
+"239","Vernon","Doyle",0,41,"32 Ridenour Street",33064,8.66403771749037
+"240","Timothy","Dowd",0,61,"1678 Alexander Drive",76259,9.70471135567615
+"241","Melba","Hunter",1,45,"3259 Jennifer Lane",27601,5.73479753075691
+"242","Victoria","Butler",1,22,"1480 Sampson Street",80136,2.77078623191073
+"243","Stephen","Smith",0,20,"3556 Leo Street",80203,8.42487195703342
+"244","Eric","Basnight",0,50,"706 Robinson Lane",43055,6.8474963089439
+"245","Carmen","Estep",0,38,"641 Grand Avenue",32801,5.91075514039603
+"246","Ramon","Campbell",0,25,"357 Rosebud Avenue",72675,7.51657639934157
+"247","Terry","Posada",0,52,"2040 Golden Street",33056,5.94857680238417
+"248","Louis","Payne",0,24,"1131 Warner Street",33137,4.74897654194825
+"249","Claude","Branham",0,36,"146 Clover Drive",81008,10.0730848424172
+"250","Rachel","Whitman",1,37,"3055 Joanne Lane",1821,7.47347803999663
+"251","Vera","Hower",1,29,"4030 Nickel Road",90017,6.23061196486347
+"252","Mary","Moreno",1,29,"261 Crummit Lane",68508,9.09292277026307
+"253","Emma","Carver",1,43,"208 Eden Drive",23060,7.23070268380324
+"254","Kimberli","Lopez",1,36,"847 Spadafore Drive",16501,7.47966911375521
+"255","Heather","Stevenson",1,49,"4606 State Street",63146,8.41362926481943
+"256","Lisa","Ince",1,24,"1944 Stoney Lane",75202,6.01065147906816
+"257","Kenneth","Contreras",0,32,"3554 Maple Avenue",95202,7.58599053175304
+"258","Charlene","Bolton",1,44,"1737 South Street",79701,5.22435898705551
+"259","Dorothy","Heard",1,37,"2454 Glenview Drive",78401,9.6029860166898
+"260","Jackie","Cervantez",1,35,"1816 Washburn Street",70802,6.3283588890149
+"261","Mary","Reece",1,30,"716 Norma Lane",71254,6.61408172104303
+"262","Kelly","Freeman",1,42,"2721 Rocket Drive",55410,9.10709003144249
+"263","Frederica","Jefferson",1,61,"2910 Dane Street",99201,6.21875740450618
+"264","Lavon","Davis",1,31,"1513 Dancing Dove Lane",11590,6.3984364878217
+"265","Abby","Robertson",1,34,"4420 Columbia Mine Road",26047,6.4296386293826
+"266","Teresa","Miller",1,41,"2466 Centennial Farm Road",51301,6.22164474289525
+"267","Nicole","Hurt",1,26,"1144 Lakeland Terrace",48180,7.13668669800435
+"268","Theresa","Thomas",1,42,"3525 Lena Lane",39212,5.91065298321865
+"269","Crystal","Fuller",1,63,"2356 Front Street",48219,6.00187983926844
+"270","Patrick","Duncan",0,38,"895 Hall Valley Drive",24954,11.5734054736857
+"271","Eleanor","Pena",1,56,"159 Owen Lane",49503,8.08539860421654
+"272","Troy","Best",0,34,"3265 Euclid Avenue",93401,10.0636358136719
+"273","Margaret","Johnson",1,33,"2095 Farm Meadow Drive",38574,6.17874185839914
+"274","Tania","Llewellyn",1,50,"2275 Wyatt Street",33432,7.87123989116594
+"275","Jenny","Johnson",1,24,"2365 Bloomfield Way",4330,6.02779400604976
+"276","Sheena","Wash",1,47,"428 Geraldine Lane",10004,5.83972157395064
+"277","George","Hammett",0,25,"2239 Leroy Lane",41501,6.61016457388248
+"278","Judy","Garden",1,27,"165 Columbia Boulevard",21030,7.14573524106677
+"279","Yve","Mcgill",1,62,"3128 Matthews Street",60115,9.43847998978426
+"280","Will","Zoller",0,30,"4550 Bond Street",2905,7.6496392239243
+"281","Tim","Brown",0,26,"2636 Hurry Street",22471,7.71139551199108
+"282","Janet","Perry",1,22,"2945 Davis Court",62821,4.15431294617887
+"283","Teresa","Ross",1,46,"3137 Bel Meadow Drive",92401,8.60112083132798
+"284","Corinne","Bailey",1,19,"4828 Horizon Circle",98423,4.84054921764965
+"285","James","Johnston",0,21,"1192 Centennial Farm Road",51467,4.72029521879852
+"286","Carrie","Rivera",1,32,"4095 Woodbridge Lane",48150,6.92763750531164
+"287","Teresa","Hall",1,57,"1984 Polk Street",85712,6.67264844382358
+"288","Margret","Downs",1,42,"4147 Andell Road",37201,7.76508458535738
+"289","Lena","Roman",1,55,"2142 Capitol Avenue",47374,8.9556350663989
+"290","Lyle","Dedeaux",0,26,"4067 Edsel Road",90017,8.20814582843327
+"291","Nancy","Muse",1,43,"1861 Gladwell Street",75247,5.50011443565771
+"292","Edward","Gough",0,26,"4010 Terry Lane",32905,8.11147894314406
+"293","Alberta","Brooke",1,35,"1310 Masonic Drive",59050,6.34219452862126
+"294","Jamie","Sherrard",0,23,"4071 Woodland Drive",51106,5.97313176139349
+"295","Thomas","Erickson",0,50,"928 Harley Vincent Drive",44139,8.23195466105677
+"296","Dorisse","Smith",1,43,"2092 Frum Street",37203,9.63535612266399
+"297","Anjela","Berman",1,33,"869 Willison Street",55429,7.49346930595616
+"298","Janice","McGee",1,35,"2463 August Lane",71201,7.47828910518339
+"299","Carla","Davis",1,18,"3926 Alexander Drive",76201,3.51469943692175
+"300","Landon","Coffman",0,37,"1478 Wood Duck Drive",49916,9.98442645452245
+"301","Ethelene","Myers",1,39,"2254 Tree Frog Lane",64070,4.89397475010772
+"302","Connie","Meyer",1,24,"1211 University Drive",60606,7.39202282150654
+"303","Pearl","Vargas",1,32,"2505 Freshour Circle",78258,9.39216257786813
+"304","Dianne","Todd",1,49,"1456 Midway Road",72936,7.59426444574611
+"305","Robin","Thompson",1,26,"4219 Big Elm",66214,7.80199318616632
+"306","William","Young",0,48,"1341 Asylum Avenue",6103,7.23955797327248
+"307","Willard","Sanford",0,35,"3090 Winifred Way",46041,9.57215845211994
+"308","Lisa","Bogard",1,38,"891 Mulberry Lane",33301,7.31702509236096
+"309","Cassandra","McKnight",1,25,"3944 Coal Street",16823,4.58540054946126
+"310","Katy","Theriault",1,28,"4359 Jarvisville Road",11101,7.56851387186243
+"311","Paula","McKenzie",1,20,"2326 Adams Avenue",20701,6.65083975453353
+"312","Charles","Morgan",0,20,"4705 Broadway Avenue",37377,4.93204217559686
+"313","Mary","Martin",1,19,"3321 Fittro Street",72211,4.96821595361117
+"314","John","Bostic",0,39,"4772 Jones Avenue",27101,10.3836078210783
+"315","Thanh","Smith",1,26,"1029 Skips Lane",85901,3.59545028411051
+"316","Harry","Sloane",0,22,"644 Ferguson Street",1610,6.500989531952
+"317","Marissa","Hoke",1,33,"3948 Whiteman Street",8214,7.02812212364011
+"318","Patricia","Daly",1,47,"1008 Walkers Ridge Way",91744,8.96468925159217
+"319","Rosa","Nies",1,41,"2270 Peaceful Lane",44125,6.48393890513984
+"320","Robin","Mayo",1,57,"4821 Rosewood Court",56101,4.86930658799754
+"321","Olive","Mendelsohn",1,32,"737 Marion Street",5868,5.79957128896688
+"322","Martha","Cummings",1,29,"693 Woodridge Lane",38017,7.61855603072344
+"323","Ty","Miller",0,32,"1352 Hanifan Lane",30076,8.93812170436596
+"324","Paula","Lee",1,44,"4586 Gateway Avenue",93301,4.48297841272827
+"325","Sarah","White",1,52,"3288 Kuhl Avenue",30303,7.85096229313406
+"326","Robin","Turner",1,27,"2331 Del Dew Drive",20024,5.29879140120934
+"327","Waltraud","Simon",1,58,"2308 Charack Road",47201,8.40753585804171
+"328","Jessica","Jackson",1,36,"239 Lilac Lane",31401,5.09470262620089
+"329","Edith","Moreno",1,29,"4743 Cityview Drive",19457,3.60048396498912
+"330","Estelle","Downs",1,54,"1186 Formula Lane",75234,5.34112829667563
+"331","Eva","Braxton",1,37,"2983 Murphy Court",92370,6.31347473297844
+"332","Michelle","Thomason",1,64,"2169 Alfred Drive",11234,6.95905245817994
+"333","Hiroko","Boggs",1,21,"2324 Cambridge Drive",85027,3.17977806495234
+"334","Monika","Kennedy",1,51,"806 Spring Haven Trail",7470,9.11604490194139
+"335","Kay","Langhorne",1,32,"4616 Edwards Street",27804,6.01080279250866
+"336","Jackson","Christiansen",0,40,"3939 Radio Park Drive",31903,6.88322925537785
+"337","Lupe","Parrish",1,38,"2431 Cimmaron Road",92680,7.6719889958786
+"338","Reatha","Benton",1,33,"735 Riverside Drive",30643,3.38082066356669
+"339","Daniel","Gonzalez",0,53,"365 Cinnamon Lane",78217,8.51274004460963
+"340","Maria","Barton",1,25,"4757 Seth Street",78672,5.65035056494544
+"341","Sandra","Park",1,63,"1077 Whitman Court",6511,5.65912158236298
+"342","Marlyn","Earls",1,27,"1204 Bombardier Way",43085,7.14186468606927
+"343","Grace","McGowan",1,20,"4402 Wines Lane",77032,5.9029667358759
+"344","John","Fernandez",0,26,"1947 Formula Lane",75207,7.43154269820051
+"345","Kim","Wright",1,39,"1209 Yorkie Lane",31405,10.4527739048186
+"346","Ronda","Riverra",1,32,"3444 Weekley Street",78212,3.82483070447504
+"347","Clarence","Richards",0,64,"4391 Jehovah Drive",22401,3.04926286469673
+"348","Al","Murphy",0,37,"4271 Logan Lane",80202,8.23400077180523
+"349","Patricia","Waldrep",1,43,"4045 Havanna Street",27107,4.29290407738601
+"350","Karen","Weathers",1,47,"4715 Anmoore Road",11103,6.42006436710482
+"351","Kurt","Robertson",0,24,"1430 Rockford Mountain Lane",27577,2.43086151229007
+"352","Regina","Riess",1,43,"64 Augusta Park",25504,3.44284340192111
+"353","Lavern","Baker",1,37,"376 Holt Street",33401,5.00107220162821
+"354","Sandy","Savage",1,54,"2004 Red Dog Road",28202,4.48695034101179
+"355","Michelle","Brace",1,51,"581 Wescam Court",89511,3.07948405386408
+"356","Hector","McDonald",0,63,"4278 Pike Street",92103,7.62083787226834
+"357","Eileen","Eggert",1,34,"34 Carter Street",62434,4.46171238548759
+"358","Wilma","Urban",1,52,"543 Philli Lane",74119,5.48794415717571
+"359","Theodore","Daniel",0,20,"4558 Terra Cotta Street",55804,5.33411230343464
+"360","Donald","Reed",0,32,"2302 Roguski Road",71457,8.22662478056202
+"361","wilma","Herring",1,20,"3927 Mulberry Avenue",72211,3.26007572912296
+"362","Warren","Holmes",0,43,"4470 Asylum Avenue",6995,9.41562310329477
+"363","Deirdre","Moore",1,34,"3096 Private Lane",31701,7.07555667940271
+"364","Kay","Haas",1,42,"4121 Oak Lane",65233,4.85819318721186
+"365","Jessica","Ward",1,32,"3890 Farland Street",1581,5.71791120086479
+"366","Michael","Boyd",0,25,"4235 Cunningham Court",48075,6.24908480373258
+"367","Melvin","Knowles",0,21,"2844 Calvin Street",21202,5.92984970155187
+"368","Jason","Adam",0,28,"83 Franklee Lane",19108,5.76162801680164
+"369","Lois","Velez",1,61,"262 Ocala Street",32751,4.84031942732036
+"370","Nathan","Rider",0,35,"3330 Lauren Drive",53703,4.79937636308311
+"371","Ella","Shields",1,63,"947 Broaddus Avenue",40160,2.77457895960748
+"372","Evelina","Crawford",1,56,"3995 Bluff Street",21740,5.23700243044994
+"373","Helen","Sauers",1,31,"4857 Brown Street",94520,4.25189000941303
+"374","Marietta","Miller",1,32,"3089 Richards Avenue",95202,5.5498809329798
+"375","Richard","Jaramillo",0,38,"3150 Winifred Way",46016,5.98519795724353
+"376","Peggy","Butler",1,25,"2946 Jehovah Drive",22448,7.46730704097119
+"377","Bonnie","Smith",1,27,"4139 Oak Lane",64601,6.16863120161922
+"378","Corazon","Patten",1,24,"3678 May Street",42633,1.80056737566527
+"379","Melissa","Lahti",1,23,"3526 Drummond Street",7416,5.92642656952511
+"380","Cynthia","McNeal",1,20,"4586 Weekley Street",78237,3.47865434233984
+"381","John","Hickson",0,42,"2882 Pursglove Court",45406,10.0091707879703
+"382","Shawna","Green",1,42,"2145 Carriage Lane",43609,6.89850666313125
+"383","Paulette","Roberson",1,33,"4053 Melville Street",38374,4.86912503147489
+"384","Ashley","Villareal",1,25,"3522 Weekley Street",78205,6.15970499057298
+"385","Kelli","Perrone",1,34,"3114 Poe Lane",64110,9.55638404149919
+"386","Anthony","Barnes",0,20,"3610 Hornor Avenue",74020,3.22955583406103
+"387","Lewis","Fry",0,38,"2481 Five Points",21201,7.62710943916228
+"388","Scott","Martinez",0,44,"302 Sheila Lane",84728,7.77482737521283
+"389","Maxine","Giroux",1,53,"1158 Turkey Pen Road",10038,6.25573336277075
+"390","Deborah","Morin",1,59,"3576 Massachusetts Avenue",20024,4.0701261854185
+"391","Erin","Sims",1,45,"527 Bird Spring Lane",77060,7.40339337777965
+"392","Rose","Barefoot",1,23,"2489 Chapel Street",77056,5.29828946977432
+"393","Earl","Pettyjohn",0,36,"1194 Rosewood Court",55415,9.53679794044607
+"394","Misty","Kelly",1,39,"2738 Saint James Drive",17013,3.95793859660887
+"395","Jose","Wiley",0,28,"3811 Charack Road",47802,5.66648459066452
+"396","Jeffery","Robinson",0,20,"4108 Maple Street",90017,6.3595345522284
+"397","Louise","Swartz",1,61,"3143 Asylum Avenue",6902,8.2421397126165
+"398","Matthew","Collins",0,22,"2568 Eagle Street",62901,6.13860989011169
+"399","Estelle","Robinette",1,18,"1549 Leo Street",80015,4.42151228315699
+"400","Tiffany","Contreras",1,44,"4613 Queens Lane",23004,7.4788187398909
+"401","Lena","Puckett",1,41,"700 Hershell Hollow Road",37601,10.0441882690823
+"402","Judith","Aguero",1,33,"3492 Davis Avenue",95540,6.10933159596263
+"403","Ana","Baldwin",1,30,"555 Charla Lane",75000,7.10045464787449
+"404","Mary","Bloom",1,62,"4838 Riverside Drive",30901,8.48334311268728
+"405","Craig","Flanagan",0,20,"182 Oakway Lane",90040,5.83342311883336
+"406","Philip","Levi",0,61,"4050 Hart Ridge Road",48607,6.86817345998155
+"407","Sheryl","Myers",1,28,"4205 Tree Frog Lane",64106,5.338112312563
+"408","Phyllis","Wiseman",1,49,"949 Roosevelt Street",94112,6.47508101340391
+"409","Larry","Schmidt",0,25,"2982 Star Route",60106,6.38370423729372
+"410","Rodney","Goodman",0,24,"1037 Wolf Pen Road",94143,4.98803287829954
+"411","Patrick","Rollins",0,54,"702 Berkshire Circle",37917,9.75653139626766
+"412","William","Cooper",0,56,"2332 Woodstock Drive",91731,8.83548194828863
+"413","Cathleen","Crane",1,35,"4581 Del Dew Drive",20031,7.11600890456135
+"414","Rene","Jenkins",0,62,"2910 Woodland Avenue",70458,8.61034173219447
+"415","Joseph","Thames",0,19,"4391 Ryder Avenue",98011,5.00342957363073
+"416","Tyrone","Murphy",0,19,"147 Southside Lane",90022,5.24870389227036
+"417","Belle","Waddell",1,44,"441 Stutler Lane",16803,6.18443711482214
+"418","Kenneth","Matthews",0,43,"272 Pursglove Court",45406,9.90947403773315
+"419","Margaret","Beason",1,26,"427 Metz Lane",8102,5.08091067752556
+"420","Cindy","Shick",1,28,"422 Marietta Street",94928,3.67884855031109
+"421","Pat","Johnson",1,51,"4398 Coburn Hollow Road",61375,4.83166612460091
+"422","Harry","Landrum",0,30,"820 Pearcy Avenue",46804,5.95680053119514
+"423","Anna","Barr",1,27,"2047 Stone Lane",19103,6.483292306499
+"424","Jon","Hendricks",0,35,"1099 Post Avenue",60126,8.58552967549458
+"425","Jim","Heler",0,28,"2781 Pointe Lane",33064,4.67330913249394
+"426","Sarah","Stubs",1,59,"961 Rockford Mountain Lane",54302,3.01550925205634
+"427","Trudy","Moore",1,61,"2626 Redbud Drive",11227,5.59554176307936
+"428","Jose","Smith",0,27,"321 Ferguson Street",2127,4.29395476016126
+"429","Leona","Lukes",1,53,"1502 Libby Street",90501,7.79280290762541
+"430","Nichole","Big",0,53,"2648 Duck Creek Road",94306,15.0655281516303
+"431","Wallace","Braden",0,39,"1760 Mayo Street",40507,13.8901175865502
+"432","Anthony","Khan",0,54,"3981 Hilltop Drive",79101,13.3951292078233
+"433","Samantha","Charette",1,28,"1935 Flanigan Oaks Drive",20904,7.61850999858954
+"434","Felipe","Huber",0,35,"4157 Lilac Lane",31405,9.02248062802555
+"435","Sam","Stone",0,48,"1444 Godfrey Street",97048,13.9232417082782
+"436","Dave","McGreevy",0,32,"4365 Weekley Street",78212,9.5083011932218
+"437","Edward","Kelly",0,29,"3351 Hickory Heights Drive",21090,12.1768324747788
+"438","Leona","Roberts",1,26,"2303 Lakewood Drive",8872,9.66532852817732
+"439","Pedro","Parks",0,36,"339 Kerry Way",90241,8.9297087375403
+"440","Branda","Clark",0,27,"2985 Main Street",98109,14.2294819797588
+"441","Ella","Richie",1,30,"237 Arbutus Drive",33012,9.06469725360839
+"442","Angela","Gonzales",1,54,"3433 Willow Greene Drive",36117,10.5158826737823
+"443","Joshua","Cummings",0,27,"1857 Fleming Street",36830,9.35618464368293
+"444","Cheryl","Fay",1,18,"1112 Grand Avenue",32751,6.57856562652686
+"445","Dewey","Lester",0,35,"4531 White Pine Lane",22960,13.9125193756379
+"446","Scott","Bates",0,36,"4103 Cerullo Road",40242,14.2714348189774
+"447","Jana","Higgs",1,28,"2618 Victoria Street",70806,9.37672327953683
+"448","Doug","Schaff",0,30,"707 Werninger Street",77032,10.8115502589002
+"449","Will","Kessler",0,36,"44 Ferry Street",35203,14.5933148280984
+"450","Toni","Kenny",1,28,"3978 Melm Street",32789,8.7516283243836
+"451","Maryanne","Herrera",1,31,"2499 Brannon Avenue",32202,6.70147709475753
+"452","Stephanie","Halcomb",1,35,"1615 Mudlick Road",99301,11.8736483694534
+"453","Emily","Avery",1,47,"3225 Blue Spruce Lane",21667,11.1004462188624
+"454","Tim","Fifer",0,31,"2558 Cambridge Place",21202,12.584451944587
+"455","Don","Meeks",0,36,"2636 Providence Lane",92614,13.6640862573863
+"456","Tom","Gordillo",0,43,"2291 Arron Smith Drive",96814,14.5905668953776
+"457","Mariane","Jonson",1,34,"1311 Upton Avenue",4092,12.165767396845
+"458","Hester","Jenkins",1,39,"3742 Hood Avenue",92111,12.5627581060223
+"459","Marcel","Spence",0,31,"1667 Big Elm",64106,11.6459382341239
+"460","Christ","Walker",0,31,"2785 Harley Vincent Drive",44128,10.5583444145008
+"461","Brooke","McVey",1,44,"4968 Clifford Street",94578,11.6514014733234
+"462","Nancy","Thole",1,46,"3067 Grove Street",11735,10.8091508583833
+"463","Samantha","Smith",1,38,"3303 Wolf Pen Road",94063,7.08157836503678
+"464","Daniel","Murphy",0,38,"3467 Douglas Dairy Road",24230,10.847159780188
+"465","Michelle","Small",1,29,"2755 Sardis Sta",75074,8.52264524574575
+"466","Lorena","Reiter",1,29,"52 Meadow View Drive",6109,6.01734839237404
+"467","Gloria","Lineberger",1,29,"2699 Polk Street",85705,8.38495201742368
+"468","Elvira","Greenwood",1,34,"2911 Hedge Street",7304,8.96388721840857
+"469","David","Williams",0,57,"2348 Geraldine Lane",10022,20.4808778082882
+"470","Rose","Frazier",1,39,"3405 Hillview Street",29210,7.40598270310766
+"471","Charles","Howell",0,26,"395 Clover Drive",80903,8.43820825594203
+"472","Edward","Hale",0,34,"3321 Rainbow Drive",44691,11.8825639555513
+"473","Kristopher","Bowyer",0,38,"2690 Brookview Drive",95113,17.1441921805716
+"474","Emiko","Fox",1,32,"4322 Aspen Court",2115,9.03567699761068
+"475","Daryl","Martin",0,38,"2118 Hartland Avenue",54301,12.9954653686586
+"476","Dennis","Segovia",0,51,"3788 Fulton Street",26062,15.7594915874871
+"477","Mitch","Sanders",0,22,"2491 Kimberly Way",49503,8.58518460403552
+"478","John","Graff",0,51,"2393 Duck Creek Road",94612,17.5594188590082
+"479","Ralph","Disney",0,21,"1027 Beech Street",94104,7.62577300071982
+"480","John","Mitchell",0,36,"3443 Ash Avenue",63101,13.9556461493652
+"481","Corey","Clayton",0,20,"3552 Frum Street",37217,5.96971805797899
+"482","Angel","Stokes",0,57,"2772 Marigold Lane",33176,17.8906805943616
+"483","Norman","Huff",0,60,"4305 Atha Drive",93301,11.9706415746923
+"484","Faith","Brown",1,42,"2983 Hart Ridge Road",48624,13.3379509550916
+"485","Matthew","Vine",0,26,"651 Steele Street",61257,11.5431122166619
+"486","Nicole","Montana",1,64,"4899 Edgewood Avenue",93710,14.4118438734418
+"487","Jan","Dennison",0,39,"1933 Calico Drive",98801,9.87992283404282
+"488","June","Miller",1,24,"2658 College Street",30030,6.23243377175538
+"489","Lily","Fustons",1,33,"1013 Carolina Avenue",78501,11.0338437300374
+"490","Ruth","Williams",1,38,"4199 Junior Avenue",30303,10.09547519043
+"491","Melvin","Oliva",0,42,"2964 Mandan Road",65207,11.7446480764065
+"492","Gladys","Rush",1,36,"4447 Brighton Circle Road",56301,11.8590899347347
+"493","Virginia","Rood",1,50,"2116 Confederate Drive",13021,14.7241630013874
+"494","Pat","Steven",1,32,"2587 Kooter Lane",28105,6.49635253199166
+"495","Elena","Dunton",1,27,"3720 Cedar Street",72201,7.75140007894648
+"496","Lawrence","Myers",0,26,"4231 Williams Lane",67202,9.73787249319809
+"497","Sandra","Ramos",1,61,"48 Gregory Lane",40299,11.8601532213501
+"498","Pam","Meekers",1,49,"1087 Wakefield Street",19034,14.8373522902151
+"499","Angelique","Tidwell",1,26,"4898 Eagle Drive",48075,8.28233390165755
+"500","Kathleen","Rittenberry",1,55,"2896 Bee Street",49470,15.4156995111496
+"501","Linda","Delamora",1,36,"2211 Moonlight Drive",8232,10.5760161610013
+"502","Margaret","Reeves",1,60,"2223 Fairfield Road",53202,7.37732854383856
+"503","John","Lineberry",0,41,"4650 Oakridge Farm Lane",53525,13.3264600336796
+"504","Alice","Rule",1,21,"2333 Southern Avenue",50322,2.80953312024339
+"505","Vilma","Cassell",1,33,"4480 Cerullo Road",40299,7.82890267149602
+"506","Mary","Pace",1,32,"1484 Kincheloe Road",97006,12.5319938174607
+"507","Robyn","Manuel",1,39,"707 Randall Drive",96819,8.01206703981916
+"508","Craig","Pena",0,31,"2648 Lords Way",38371,11.2277942984572
+"509","Beth","Hagan",1,36,"3504 Hedge Street",7109,10.6757548481245
+"510","Marianne","Hemmer",1,44,"3315 Edwards Street",27834,13.134658961265
+"511","Kimberly","Sanders",1,37,"269 Beech Street",94108,11.6458799509323
+"512","Daniel","Clark",0,33,"1069 Rosewood Lane",10003,10.5453081691021
+"513","Michael","Adams",0,47,"1092 Post Farm Road",30303,18.4153272236119
+"514","Henry","Zinn",0,57,"4510 Hiddenview Drive",44128,13.8207325598865
+"515","Jerome","Moss",0,37,"2160 Berkley Street",19034,10.7238578521334
+"516","Teri","Hammonds",1,35,"3909 Melrose Street",98935,8.19679789866563
+"517","Mark","Obrien",0,32,"413 Fort Street",98491,11.2945772802283
+"518","Vernice","Tomaszewski",1,43,"3787 Earnhardt Drive",40202,5.8960535789789
+"519","Rita","Singleton",1,32,"180 Hanover Street",10016,7.86414869995473
+"520","Cherie","Cohen",1,29,"4660 Bell Street",10007,10.3276418980544
+"521","Wendell","McGrew",0,30,"1334 Shinn Street",10016,10.7475978198107
+"522","Richard","White",0,39,"4959 Reppert Coal Road",48219,11.6707255136906
+"523","Dennis","Jones",0,32,"1955 Winding Way",2887,13.0239174994024
+"524","Joseph","Meeker",0,25,"3993 Coal Street",16335,9.48339531143626
+"525","Martha","Matthews",1,49,"3299 Bel Meadow Drive",92335,8.7339063963223
+"526","Pat","Watkins",1,32,"117 Highland View Drive",94260,9.25802712762869
+"527","Joshua","Hall",0,31,"566 Marion Drive",33624,9.63518301376351
+"528","Jose","Meehan",0,30,"2789 Hillhaven Drive",90017,6.77708442654059
+"529","Laura","Cox",1,28,"2204 Allison Avenue",23502,11.3420061823739
+"530","Michael","McNear",0,29,"3494 Davis Court",62960,9.70892192205943
+"531","Barbara","Tompkins",1,51,"2361 Havanna Street",27401,8.02800083335606
+"532","Rosie","Hidalgo",1,48,"52 Levy Court",1824,15.411369638557
+"533","Willard","Sage",0,31,"1563 Oakmound Road",60657,9.74509104930362
+"534","Bryan","McCoy",0,55,"2689 Duffy Street",46382,13.3188439329062

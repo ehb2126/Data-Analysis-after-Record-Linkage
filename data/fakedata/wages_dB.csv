@@ -1,0 +1,535 @@
+"ID","OCCUPATION","SECTOR","UNION","EDUCATION","EXPERIENCE","AGE","SEX","MARR","RACE","SOUTH","FNAME","LNAME","ADDRESS","ZIPCODE"
+"1",6,1,0,8,21,35,1,1,2,0,"Maggie","Payne","3247 Harrison Street",94122
+"2",6,1,0,9,42,57,1,1,3,0,"Nettie","Balas","4257 Langtown Road",43609
+"3",6,1,0,12,1,19,0,0,3,0,"Rickey","Butler","3141 Martha Street",86023
+"4",6,0,0,12,4,22,0,0,3,0,"James","Marino","1001 Driftwood Road",95113
+"5",6,0,0,12,17,35,0,1,3,0,"Adrian","Murphy","4555 Byers Lane",95826
+"6",6,0,1,13,9,28,0,0,3,0,"Michael","Montoya","4283 Virgil Street",32459
+"7",6,0,0,10,27,43,0,0,3,1,"Jason","Hunter","3919 Turkey Pen Road",10016
+"8",6,0,0,12,9,27,0,0,3,0,"Jesus","Lagasse","1281 Chandler Hollow Road",15106
+"9",6,1,0,16,11,33,0,1,3,0,"Richard","Miller","3212 Polk Street",85701
+"10",6,0,0,12,9,27,0,0,3,0,"Michael","Conway","2747 Ashwood Drive",51016
+"11",6,0,1,12,17,35,0,1,3,0,"Russel","Stephen","291 Bobcat Drive",20005
+"12",6,1,1,12,19,37,0,0,3,0,"John","Arthur","544 Pike Street",92123
+"13",6,0,0,8,27,41,0,1,3,1,"Jack","Dean","1895 Marcus Street",35802
+"14",6,0,1,9,30,45,0,0,3,1,"John","Pitts","2689 Sycamore Lake Road",54301
+"15",6,0,0,9,29,44,0,1,3,1,"James","Corchado","1561 Dola Mine Road",27707
+"16",6,2,0,12,37,55,0,1,3,0,"Earl","Schaefer","619 Braxton Street",60423
+"17",6,0,0,7,44,57,0,1,3,1,"Jerry","Jordan","4885 John Avenue",48912
+"18",6,1,1,12,26,44,0,1,3,0,"Ronald","Young","81 Willow Oaks Lane",70501
+"19",6,0,0,11,16,33,0,0,3,0,"Karl","Vaughn","2424 Kooter Lane",28150
+"20",6,0,0,12,33,51,0,1,3,0,"William","Mauldin","301 Ripple Street",48653
+"21",6,1,1,12,16,34,1,1,3,0,"Alisha","Abbott","2588 Barfield Lane",46254
+"22",6,1,1,7,42,55,0,1,1,0,"Phillip","Dye","1491 Stoney Lonesome Road",17701
+"23",6,0,0,12,9,27,0,0,3,0,"Steven","Morris","442 Stroop Hill Road",30093
+"24",6,0,0,11,14,31,0,1,1,1,"Erick","Walker","4917 Allison Avenue",23462
+"25",6,0,0,12,23,41,0,1,3,0,"Alvin","Sewell","664 Chicago Avenue",93291
+"26",6,1,0,6,45,57,0,1,3,1,"David","Greer","3996 Cecil Street",60062
+"27",6,1,0,12,8,26,0,1,3,0,"Raul","Owens","140 Werninger Street",77036
+"28",6,0,0,10,30,46,0,1,3,0,"Ramon","Noble","295 Williams Lane",67214
+"29",6,1,0,12,8,26,1,1,3,0,"Keli","Vogt","1560 Saint James Drive",17670
+"30",6,0,0,12,8,26,0,1,3,0,"Jorge","Johnson","1050 Hannah Street",28202
+"31",6,0,0,14,13,33,0,0,3,0,"John","Berger","2696 Smithfield Avenue",79401
+"32",6,0,0,12,46,64,1,0,3,1,"Mary","Clark","803 Little Acres Lane",62420
+"33",6,0,0,8,19,33,0,1,3,0,"Robert","Calvert","1275 Wilkinson Court",33901
+"34",6,0,0,17,1,24,1,0,3,1,"Michele","Wallace","2636 Hillcrest Lane",92501
+"35",6,1,0,12,19,37,0,0,3,0,"David","Boatright","4046 Elk Creek Road",30071
+"36",6,0,0,12,36,54,0,0,1,0,"Alfredo","Burrell","4000 Simpson Square",73564
+"37",6,2,0,12,20,38,0,1,1,1,"James","Jenkins","2951 Harron Drive",21201
+"38",6,2,1,12,35,53,0,1,1,0,"Scott","Morris","2502 Stonecoal Road",44902
+"39",6,0,0,12,3,21,0,0,3,0,"Julius","Davis","701 Woodbridge Lane",48124
+"40",6,1,0,14,10,30,0,1,3,1,"Gregory","Ross","3358 Davis Lane",80239
+"41",6,0,0,12,0,18,0,0,3,0,"Daniel","Sullivan","640 Watson Street",8855
+"42",6,1,1,14,14,34,0,1,3,1,"Jack","Lagunas","672 Meadowcrest Lane",40507
+"43",6,1,0,12,14,32,0,1,3,0,"Kelvin","Delgado","2121 Jefferson Street",23502
+"44",6,1,0,9,16,31,1,1,3,0,"Marine","Wells","3685 Diamond Cove",2903
+"45",6,2,0,13,8,27,0,0,3,1,"Joseph","Dattilo","4962 Candlelight Drive",77011
+"46",6,1,0,7,15,28,1,1,3,1,"Becky","Billington","1868 Poe Road",77032
+"47",6,1,0,16,12,34,0,1,3,0,"Robert","Robertson","721 Elk Avenue",48892
+"48",6,0,0,10,13,29,0,0,3,1,"Richard","Moreland","1819 Crowfield Road",85012
+"49",6,0,1,8,33,47,0,1,3,0,"Deandre","Fuller","1463 Lake Forest Drive",11747
+"50",6,1,0,12,9,27,0,1,3,0,"Richard","Schofield","1711 Marion Street",5403
+"51",6,0,0,12,7,25,0,1,3,0,"Joseph","Kennedy","4489 Zappia Drive",40507
+"52",6,1,1,16,13,35,0,1,3,0,"Glen","Bowens","2055 Southern Street",11729
+"53",6,1,0,12,7,25,1,1,3,0,"Connie","Butler","4388 Irish Lane",53703
+"54",6,1,0,12,16,34,1,1,3,0,"Barbara","Morton","1773 Evergreen Lane",90017
+"55",6,0,0,13,0,19,0,0,3,0,"Oscar","Spier","3378 Walnut Street",39208
+"56",6,1,0,12,11,29,1,0,3,0,"Barbara","Fletcher","1338 Green Acres Road",27823
+"57",6,1,0,13,17,36,0,0,3,0,"Edward","Barrett","3740 Confederate Drive",13088
+"58",6,1,0,10,13,29,0,1,3,0,"Horace","Vogel","4920 Pheasant Ridge Road",19139
+"59",6,1,1,12,22,40,0,0,1,0,"Johnny","Smith","3527 Burke Street",2210
+"60",6,1,0,12,28,46,1,1,3,0,"Robin","Lawrence","4233 Blue Spruce Lane",21076
+"61",6,0,0,11,17,34,0,0,3,0,"George","McMahan","601 Hinkle Deegan Lake Road",40507
+"62",6,2,1,12,24,42,0,1,3,0,"Sean","Caputo","3520 Nuzum Court",14221
+"63",6,1,0,3,55,64,0,1,2,1,"Will","Robicheaux","4067 Farnum Road",10048
+"64",6,2,0,12,3,21,0,0,3,1,"Darwin","Gonzales","744 Franklin Street",36744
+"65",6,1,1,12,6,24,0,0,1,0,"Herman","White","4352 Rogers Street",45236
+"66",6,2,0,10,27,43,0,1,3,0,"Gregg","Barfield","4930 Koontz Lane",91601
+"67",6,1,1,12,19,37,0,1,1,1,"Michael","Chandler","2631 Pike Street",92126
+"68",6,2,1,12,19,37,0,1,3,0,"Glenn","Miracle","1832 Shearwood Forest Drive",3801
+"69",6,1,0,12,38,56,1,1,3,0,"Erin","Richmond","4486 Lady Bug Drive",11101
+"70",6,1,1,10,41,57,0,1,1,1,"Ricardo","McLeod","1571 Cottonwood Lane",37207
+"71",6,1,0,11,3,20,0,0,1,1,"Christopher","Mayer","236 Cantebury Drive",10013
+"72",6,0,1,14,20,40,0,1,3,0,"Ralph","Ross","915 Birch  Street",79901
+"73",6,0,0,10,15,31,0,1,3,0,"David","Curran","4368 Park Boulevard",50472
+"74",6,1,0,8,8,22,0,1,2,1,"German","Willis","569 Kenwood Place",33442
+"75",6,1,0,8,39,53,1,1,3,1,"Mildred","Ross","844 Colonial Drive",77461
+"76",6,1,1,6,43,55,1,1,2,0,"Irma","Myers","1075 Maple Lane",35901
+"77",6,1,1,11,25,42,1,1,3,1,"Anna","Altman","1811 Confederate Drive",13206
+"78",6,0,1,12,11,29,0,1,3,0,"Fernando","Rice","259 Mayo Street",41042
+"79",6,0,0,12,12,30,0,1,1,0,"George","Irvine","1458 Fairfax Drive",8854
+"80",6,1,1,12,35,53,0,1,3,1,"Ed","Way","2529 Aaron Smith Drive",17401
+"81",6,0,0,14,14,34,0,0,3,0,"Thomas","Becnel","3635 Oakdale Avenue",33440
+"82",6,0,1,12,16,34,0,1,3,0,"Eddie","Herren","420 Stratford Park",47458
+"83",6,1,1,10,44,60,1,0,3,0,"Dorothy","Brooks","1943 Irving Place",63366
+"84",6,0,0,16,13,35,1,0,3,1,"Robin","Thompson","2246 Russell Street",2141
+"85",6,1,1,13,8,27,0,0,1,0,"Theodore","Ducan","1871 Hiney Road",89119
+"86",6,1,0,12,13,31,0,0,3,0,"Matthew","Walker","65 Waldeck Street",75247
+"87",6,0,1,11,18,35,0,1,3,0,"Sean","Melville","3023 White Oak Drive",64108
+"88",6,0,0,12,18,36,1,1,3,0,"Shelby","Jorge","2401 Sycamore Lake Road",53081
+"89",6,0,0,12,6,24,1,0,3,1,"Vikki","New","3343 Rebecca Street",60607
+"90",6,1,1,11,37,54,0,1,3,1,"Rodney","Staley","189 Russell Street",1840
+"91",6,1,0,12,2,20,0,1,3,1,"Bruce","Marrufo","3743 West Fork Drive",33324
+"92",6,1,0,12,23,41,0,1,3,0,"John","Baker","3140 Oakridge Lane",75234
+"93",6,0,0,12,1,19,0,0,3,0,"Elmer","Attwood","4206 Ruckman Road",73110
+"94",6,1,0,12,10,28,1,1,1,1,"Elinor","Kendrick","1643 Johnson Street",27601
+"95",6,1,0,12,23,41,0,1,3,0,"Chris","Perez","4158 Sycamore Street",95127
+"96",6,0,1,12,8,26,0,1,1,0,"Douglas","Rhoades","2955 Irving Road",43081
+"97",6,1,0,15,9,30,1,1,3,0,"Sharon","Holliman","2629 Filbert Street",19020
+"98",6,2,1,12,33,51,0,1,3,0,"Damien","Hoover","3066 Austin Avenue",31401
+"99",6,1,0,12,19,37,1,1,3,0,"Dorothy","White","810 Filbert Street",19103
+"100",6,0,0,13,14,33,0,1,3,0,"Jeffrey","Nunez","1505 Poplar Lane",33165
+"101",6,0,1,11,13,30,0,1,3,0,"Dustin","Clifton","4284 Trainer Avenue",52803
+"102",6,2,0,10,12,28,0,1,3,0,"Anthony","Tillman","2852 Hill Croft Farm Road",95926
+"103",6,0,0,12,8,26,0,0,3,0,"Dan","Lander","1745 Sunrise Road",89119
+"104",6,1,0,12,23,41,0,1,3,0,"Randy","Jones","4035 Sharon Lane",46563
+"105",6,1,0,14,13,33,1,0,3,0,"Kelley","Clark","1567 Lena Lane",39157
+"106",6,0,0,12,9,27,0,1,3,1,"Randall","Tsosie","2836 Virginia Street",60062
+"107",6,0,1,14,21,41,0,1,3,0,"Harrison","Partin","1940 Elk City Road",71101
+"108",6,2,0,5,44,55,0,1,3,1,"James","Sandoval","4949 Skips Lane",85553
+"109",6,0,1,12,4,22,0,1,3,0,"George","Sandifer","3519 Ridge Road",67330
+"110",6,1,0,8,42,56,0,1,3,0,"Roger","Milburn","4991 Graystone Lakes",31213
+"111",6,0,1,13,10,29,0,1,3,0,"Rodney","Hudson","508 Maud Street",19801
+"112",6,2,0,12,11,29,0,0,3,0,"Danny","Geis","2907 Northwest Boulevard",20008
+"113",6,2,1,12,40,58,0,1,3,0,"Alfred","Peterson","3252 Hartland Avenue",54303
+"114",6,2,0,12,8,26,0,0,3,0,"Otis","Klein","2474 Traction Street",29339
+"115",6,2,0,11,29,46,0,1,3,1,"Ellis","Shutt","305 Tanglewood Road",38654
+"116",6,0,1,16,3,25,0,0,3,0,"Nicholas","Williams","3434 Court Street",63146
+"117",6,2,0,11,11,28,0,0,3,0,"Phillip","Gustavson","2363 Abner Road",54487
+"118",6,0,1,12,12,30,0,1,3,0,"Robert","Moore","4368 Pleasant Hill Road",90706
+"119",6,0,0,8,22,36,1,1,2,0,"Sarah","Bowser","560 Collins Avenue",43215
+"120",6,0,0,12,12,30,0,1,3,0,"Alexander","Perez","4871 Charmaine Lane",79373
+"121",6,0,1,12,7,25,0,1,3,0,"Scott","Skidmore","1513 Ashmor Drive",56501
+"122",6,1,0,12,15,33,1,0,3,0,"Gina","Stimpson","3324 Marie Street",20707
+"123",6,0,0,12,28,46,0,1,3,0,"Peter","Howard","3639 Lady Bug Drive",81212
+"124",6,1,1,12,20,38,0,1,3,1,"Norman","Driscoll","4684 Palmer Road",43085
+"125",6,2,0,12,6,24,0,0,3,1,"Matthew","Rife","4536 Waterview Lane",87109
+"126",6,1,0,12,5,23,0,0,3,1,"Manuel","Zamorano","2266 Bel Meadow Drive",91761
+"127",6,1,0,9,30,45,1,1,3,1,"Blanche","Stephens","2528 Blane Street",63104
+"128",6,0,0,13,18,37,0,1,3,0,"Hugh","Allison","2236 Sussex Court",76541
+"129",6,1,0,12,6,24,1,1,1,1,"Berniece","Costello","4730 Leverton Cove Road",1109
+"130",6,0,0,12,16,34,0,0,2,1,"Alejandro","O'Neill","2309 Eden Drive",23803
+"131",6,0,1,12,1,19,0,0,2,1,"Richard","Easterwood","2404 Seltice Way",83814
+"132",6,1,0,12,3,21,0,0,3,0,"Santos","Anderson","1605 Woodhill Avenue",20705
+"133",6,0,0,12,8,26,0,1,3,0,"George","Kittelson","2947 McDonald Avenue",32803
+"134",6,1,0,14,2,22,0,0,3,0,"Daren","Baker","1753 Jim Rosa Lane",94920
+"135",6,1,0,9,16,31,0,0,1,0,"Derrick","Morris","885 Hall Street",89101
+"136",6,2,0,10,9,25,0,1,3,1,"Shane","Cooper","3425 Grasselli Street",5101
+"137",6,0,0,12,2,20,0,0,3,0,"Joseph","Kipp","2205 Blackwell Street",99737
+"138",6,1,0,7,43,56,0,1,3,1,"Clarence","Nathaniel","770 Hayhurst Lane",48219
+"139",6,1,0,9,38,53,0,1,3,0,"Daniel","Bingham","1760 Johnny Lane",53202
+"140",6,0,0,12,9,27,0,1,3,0,"Michael","Knight","1060 Bingamon Branch Road",10990
+"141",6,0,0,12,12,30,0,1,3,1,"Gregory","Long","2082 Tanglewood Road",39337
+"142",6,1,0,12,18,36,0,1,3,0,"Scott","Kish","163 Cardinal Lane",44115
+"143",6,1,1,11,15,32,0,0,3,0,"Scott","Mitchell","1703 West Fork Drive",33176
+"144",6,2,1,11,28,45,0,1,1,1,"Roy","Brewer","4774 Rollins Road",69346
+"145",6,2,1,10,27,43,0,1,3,1,"William","Sokolowski","4400 Adams Avenue",20707
+"146",6,0,0,12,38,56,0,1,3,1,"Timothy","Greenwood","673 Deer Ridge Drive",7201
+"147",6,1,0,12,3,21,1,0,3,0,"Jodi","Bradley","1930 Timberbrook Lane",80202
+"148",6,0,1,12,41,59,0,1,3,0,"Sheldon","Love","2229 Westwood Avenue",11716
+"149",6,0,1,12,16,34,0,1,3,1,"Frank","Tanner","3053 Haul Road",94041
+"150",6,1,0,13,7,26,0,1,3,1,"Lynn","Phillips","3208 Hillhaven Drive",90063
+"151",6,1,0,6,33,45,1,0,1,1,"Annie","Moore","3509 Weekley Street",78205
+"152",6,1,0,14,25,45,0,1,3,0,"Harold","Arthur","47 Chestnut Street",34642
+"153",6,0,0,12,5,23,0,1,3,1,"Dan","Kincer","3809 Pride Avenue",11206
+"154",6,0,0,14,17,37,0,0,1,1,"James","Gary","2131 Heavner Avenue",30071
+"155",6,0,0,12,1,19,0,0,3,1,"Francis","Ulmer","1837 Payne Street",24641
+"156",6,1,0,12,13,31,0,1,3,0,"John","Bertsch","2893 Point Street",60620
+"157",1,0,0,16,18,40,0,1,3,0,"Albert","Marshall","1892 Ray Court",28401
+"158",1,0,0,14,21,41,0,1,3,1,"Barry","Hamrick","24 Ben Street",12205
+"159",1,0,0,14,2,22,0,0,3,0,"Robert","Holle","1716 Birch  Street",79924
+"160",1,0,0,12,4,22,1,0,2,1,"Angela","Perkins","4588 Center Street",97401
+"161",1,0,0,12,30,48,1,1,2,1,"Alison","Steck","2406 Marshall Street",21218
+"162",1,0,0,13,32,51,0,0,3,0,"Christopher","Sartor","2487 Bridge Avenue",70658
+"163",1,0,0,17,13,36,1,1,3,0,"Phyllis","Barnett","4110 Luke Lane",74601
+"164",1,0,0,12,17,35,0,0,3,0,"Juan","McGhee","4430 Small Street",10017
+"165",1,0,0,14,26,46,1,1,3,0,"Edna","Allen","2564 Lakeland Park Drive",30501
+"166",1,0,0,16,9,31,0,0,3,0,"Matthew","Elms","266 Hilltop Haven Drive",7102
+"167",1,0,0,16,8,30,0,0,1,0,"Julio","Toribio","4251 Pineview Drive",56042
+"168",1,0,1,15,1,22,0,1,3,0,"Wesley","Bates","3939 Armbrester Drive",90505
+"169",1,0,0,17,32,55,0,1,3,1,"Scott","Hollingshead","3670 John Avenue",49201
+"170",1,0,0,12,24,42,1,1,3,0,"Jennifer","Sorenson","3458 Better Street",64105
+"171",1,0,0,14,1,21,1,0,3,0,"Dorcas","Tillotson","3970 Myra Street",2904
+"172",1,1,0,12,42,60,0,1,3,0,"Jose","Huffman","1920 Platinum Drive",15205
+"173",1,1,0,16,3,25,1,0,1,0,"Betty","Smith","778 Goldcliff Circle",20005
+"174",1,0,0,12,32,50,1,1,3,0,"Lorena","Reedy","2802 Larry Street",53233
+"175",1,0,0,14,22,42,0,0,1,0,"Thomas","Schafer","2785 Hoffman Avenue",10013
+"176",1,0,0,16,18,40,0,1,3,0,"Jeff","Hertzog","4124 Byrd Lane",87102
+"177",1,0,0,18,19,43,1,1,3,0,"Dorothy","Summers","3347 Parker Drive",44115
+"178",1,0,0,15,12,33,0,1,3,0,"Jerry","Rondeau","884 Conifer Drive",98168
+"179",1,0,0,12,42,60,1,1,3,0,"Heather","Dunn","4001 Clinton Street",72046
+"180",1,0,0,12,34,52,0,1,3,1,"Robert","Pastrana","4515 Radford Street",40242
+"181",1,0,0,18,29,53,0,1,3,0,"Carlton","Newberry","2598 Irish Lane",53562
+"182",1,0,0,16,8,30,0,0,3,1,"Robert","Fernandez","3380 Ferguson Street",1757
+"183",1,1,0,18,13,37,0,0,3,0,"Richard","Ballard","3884 Sugarfoot Lane",46225
+"184",1,0,0,16,10,32,0,0,3,0,"Stephen","McCusker","1415 Clair Street",76102
+"185",1,0,0,16,22,44,0,1,3,0,"Sergio","Garrison","750 Buckhannan Avenue",13224
+"186",1,0,0,16,10,32,0,1,3,1,"William","Kramer","4881 Christie Way",2199
+"187",1,0,0,17,15,38,1,1,3,0,"Myrna","Anderson","242 Renwick Drive",19034
+"188",1,0,0,12,26,44,0,1,3,0,"Kristopher","Carter","1720 Byrd Lane",87020
+"189",1,0,0,14,16,36,0,0,3,0,"Charles","Lund","2231 Farm Meadow Drive",37209
+"190",1,0,0,18,14,38,1,1,3,0,"Judy","Deyoung","1281 Elmwood Avenue",85225
+"191",1,0,0,12,38,56,1,1,3,0,"Bonnie","Weight","827 Mulberry Avenue",72211
+"192",1,0,0,12,14,32,0,1,1,1,"Gary","Champion","771 Browning Lane",13101
+"193",1,0,0,12,7,25,1,1,3,0,"Phyllis","Garrido","1669 Watson Street",8052
+"194",1,0,0,18,13,37,1,0,3,1,"Vanessa","Johnson","3648 Pheasant Ridge Road",19103
+"195",1,0,0,10,20,36,0,1,3,0,"Michael","Carlson","3975 Feathers Hooves Drive",11714
+"196",1,0,1,16,7,29,0,1,2,0,"William","Hunter","1512 Pineview Drive",51347
+"197",1,0,0,16,26,48,1,1,3,0,"Elaine","Meadows","3531 Oakdale Avenue",33825
+"198",1,0,0,16,14,36,0,1,3,0,"Theodore","Holbrook","2499 Oakdale Avenue",33823
+"199",1,0,0,13,36,55,0,0,3,0,"Robert","Okamoto","2638 Bridge Avenue",70583
+"200",1,0,0,12,24,42,0,1,3,0,"Daniel","Whitehair","574 Frederick Street",95823
+"201",1,0,0,14,41,61,0,1,3,1,"Jason","Volpe","252 McDowell Street",37052
+"202",1,0,0,16,7,29,0,1,1,0,"Alan","Montes","3847 Fraggle Drive",60173
+"203",1,0,0,17,14,37,0,0,3,1,"Joshua","Agar","4747 Franklin Avenue",78476
+"204",1,0,0,12,1,19,1,0,3,1,"Ella","Gardner","4100 Clark Street",60515
+"205",1,1,0,16,6,28,1,1,3,0,"Joyce","Armstrong","227 Cost Avenue",20027
+"206",1,0,0,12,3,21,1,1,3,0,"Patricia","Harding","2959 Edwards Street",28560
+"207",1,0,0,15,31,52,0,1,3,0,"Robert","Despain","3800 Centennial Farm Road",51249
+"208",1,1,0,13,14,33,1,1,3,0,"Ruth","Ceballos","4444 Ben Street",12210
+"209",1,0,0,14,13,33,1,1,3,0,"Louise","McMahon","3091 Jones Avenue",27265
+"210",1,1,1,16,26,48,0,1,1,0,"Bernard","Harris","4918 Melm Street",2852
+"211",1,0,0,18,14,38,0,1,3,0,"Edward","Johnson","3154 Pointe Lane",33024
+"212",2,0,0,13,33,52,1,1,3,0,"Patricia","Gross","2351 Roy Alley",80123
+"213",2,0,0,12,16,34,0,1,3,0,"Whitney","Ash","870 Del Dew Drive",20770
+"214",2,0,0,18,10,34,0,1,3,0,"John","Salazar","2872 Garrett Street",19108
+"215",2,0,0,14,22,42,0,0,3,0,"Joseph","Schley","2670 Gore Street",77006
+"216",2,0,0,14,2,22,0,0,3,0,"Christian","Finnell","2868 Rosewood Lane",10016
+"217",2,0,0,12,29,47,1,1,3,1,"Regina","Winn","681 Thunder Road",94063
+"218",2,1,0,12,43,61,0,1,3,0,"Shannon","Bobbitt","2620 Pyramid Valley Road",52632
+"219",2,0,0,12,5,23,1,1,3,0,"Wanda","Speed","1723 Thomas Street",60062
+"220",2,0,0,16,14,36,1,1,1,1,"Alexandra","Snavely","3700 Clement Street",30303
+"221",2,0,0,12,28,46,0,1,3,1,"Harry","Hedley","3588 Hiney Road",58374
+"222",2,0,0,11,25,42,1,1,1,1,"April","Tyler","2662 Fancher Drive",75212
+"223",2,0,0,12,45,63,1,1,3,0,"Juanita","Cox","2756 Boone Street",77995
+"224",2,0,0,14,5,25,0,0,3,1,"Manuel","Moore","3430 Parker Drive",44115
+"225",2,1,0,12,20,38,0,1,3,1,"Kyle","Williamson","1070 Briarwood Road",64769
+"226",2,0,0,16,6,28,1,1,3,0,"Judith","Brunner","4783 Church Street",11201
+"227",2,0,0,16,16,38,0,1,3,0,"Sylvester","Duffy","969 Tanglewood Road",38801
+"228",2,0,0,11,33,50,1,1,3,0,"Paula","Brownlee","4911 Barrington Court",72024
+"229",2,0,0,13,2,21,1,1,3,1,"Elizabeth","Murphy","2458 Sycamore Lake Road",54304
+"230",2,0,0,12,10,28,1,0,3,1,"Vivian","Wood","70 Diamond Street",28801
+"231",2,0,0,14,44,64,0,1,3,1,"Anthony","Shelton","3125 Bates Brothers Road",43081
+"232",2,0,0,14,6,26,1,1,3,1,"Andrea","Cole","837 Leroy Lane",57702
+"233",2,0,0,12,15,33,1,0,3,0,"Kara","Dykema","1939 Pheasant Ridge Road",19103
+"234",2,0,0,12,5,23,0,1,3,0,"William","Jefferson","4304 Neuport Lane",30084
+"235",2,1,0,13,4,23,1,1,3,0,"Bethany","Estep","1620 Bridge Avenue",70663
+"236",2,0,0,14,14,34,0,1,3,0,"Evan","Muro","1194 Bassel Street",70123
+"237",2,0,0,14,32,52,1,1,3,0,"Cheri","Ochoa","3650 Boring Lane",94005
+"238",2,0,0,12,14,32,1,1,3,0,"Darlene","Scott","4783 Hardesty Street",12207
+"239",2,0,0,14,21,41,0,1,3,0,"Vernon","Doyle","32 Ridenour Street",33064
+"240",2,0,1,12,43,61,0,1,3,0,"Timothy","Dowd","1678 Alexander Drive",76259
+"241",2,0,0,12,27,45,1,1,1,1,"Melba","Hunter","3259 Jennifer Lane",27601
+"242",2,0,0,12,4,22,1,0,3,0,"Victoria","Butler","1480 Sampson Street",80136
+"243",2,0,0,14,0,20,0,0,2,0,"Stephen","Smith","3556 Leo Street",80203
+"244",2,0,0,12,32,50,0,1,3,1,"Eric","Basnight","706 Robinson Lane",43055
+"245",2,0,0,12,20,38,0,1,3,0,"Carmen","Estep","641 Grand Avenue",32801
+"246",2,0,0,15,4,25,0,0,3,1,"Ramon","Campbell","357 Rosebud Avenue",72675
+"247",2,0,0,12,34,52,0,1,3,0,"Terry","Posada","2040 Golden Street",33056
+"248",2,0,0,13,5,24,0,0,3,0,"Louis","Payne","1131 Warner Street",33137
+"249",2,1,0,17,13,36,0,1,3,0,"Claude","Branham","146 Clover Drive",81008
+"250",3,0,0,14,17,37,1,1,2,0,"Rachel","Whitman","3055 Joanne Lane",1821
+"251",3,0,0,13,10,29,1,1,3,1,"Vera","Hower","4030 Nickel Road",90017
+"252",3,0,0,16,7,29,1,1,3,0,"Mary","Moreno","261 Crummit Lane",68508
+"253",3,0,0,12,25,43,1,0,3,0,"Emma","Carver","208 Eden Drive",23060
+"254",3,0,0,12,18,36,1,1,1,0,"Kimberli","Lopez","847 Spadafore Drive",16501
+"255",3,1,0,16,27,49,1,1,3,0,"Heather","Stevenson","4606 State Street",63146
+"256",3,0,0,16,2,24,1,0,3,0,"Lisa","Ince","1944 Stoney Lane",75202
+"257",3,0,0,13,13,32,0,1,3,0,"Kenneth","Contreras","3554 Maple Avenue",95202
+"258",3,0,0,14,24,44,1,0,3,0,"Charlene","Bolton","1737 South Street",79701
+"259",3,0,0,18,13,37,1,1,2,1,"Dorothy","Heard","2454 Glenview Drive",78401
+"260",3,0,1,14,15,35,1,0,3,0,"Jackie","Cervantez","1816 Washburn Street",70802
+"261",3,0,0,12,12,30,1,0,2,1,"Mary","Reece","716 Norma Lane",71254
+"262",3,0,0,12,24,42,1,1,3,0,"Kelly","Freeman","2721 Rocket Drive",55410
+"263",3,2,0,12,43,61,1,1,3,0,"Frederica","Jefferson","2910 Dane Street",99201
+"264",3,1,0,12,13,31,1,1,3,0,"Lavon","Davis","1513 Dancing Dove Lane",11590
+"265",3,0,0,12,16,34,1,1,3,1,"Abby","Robertson","4420 Columbia Mine Road",26047
+"266",3,0,0,11,24,41,1,1,3,0,"Teresa","Miller","2466 Centennial Farm Road",51301
+"267",3,0,0,16,4,26,1,1,3,1,"Nicole","Hurt","1144 Lakeland Terrace",48180
+"268",3,0,0,12,24,42,1,1,3,0,"Theresa","Thomas","3525 Lena Lane",39212
+"269",3,0,0,12,45,63,1,1,3,0,"Crystal","Fuller","2356 Front Street",48219
+"270",3,0,1,12,20,38,0,1,3,0,"Patrick","Duncan","895 Hall Valley Drive",24954
+"271",3,0,0,12,38,56,1,1,3,0,"Eleanor","Pena","159 Owen Lane",49503
+"272",3,0,0,18,10,34,0,1,3,1,"Troy","Best","3265 Euclid Avenue",93401
+"273",3,0,0,11,16,33,1,1,1,0,"Margaret","Johnson","2095 Farm Meadow Drive",38574
+"274",3,0,0,12,32,50,1,1,1,1,"Tania","Llewellyn","2275 Wyatt Street",33432
+"275",3,0,0,16,2,24,1,0,3,1,"Jenny","Johnson","2365 Bloomfield Way",4330
+"276",3,0,0,13,28,47,1,0,3,1,"Sheena","Wash","428 Geraldine Lane",10004
+"277",3,0,0,16,3,25,0,0,1,0,"George","Hammett","2239 Leroy Lane",41501
+"278",3,0,1,13,8,27,1,0,3,0,"Judy","Garden","165 Columbia Boulevard",21030
+"279",3,1,0,12,44,62,1,1,3,0,"Yvette","Magill","3128 Matthews Street",60115
+"280",3,0,0,12,12,30,0,1,3,1,"William","Zoller","4550 Bond Street",2905
+"281",3,0,0,12,8,26,0,1,1,1,"Timothy","Brown","2636 Hurry Street",22471
+"282",3,0,0,12,4,22,1,1,3,0,"Janet","Perry","2945 Davis Court",62821
+"283",3,0,0,12,28,46,1,1,3,1,"Teresa","Ross","3137 Bel Meadow Drive",92401
+"284",3,0,0,13,0,19,1,0,3,1,"Corinne","Bailey","4828 Horizon Circle",98423
+"285",3,0,0,14,1,21,0,0,3,1,"James","Johnston","1192 Centennial Farm Road",51467
+"286",3,1,0,14,12,32,1,1,3,0,"Carrie","Rivera","4095 Woodbridge Lane",48150
+"287",3,0,0,12,39,57,1,1,3,0,"Teresa","Hall","1984 Polk Street",85712
+"288",3,0,0,12,24,42,1,1,3,0,"Margret","Downs","4147 Andell Road",37201
+"289",3,0,0,17,32,55,1,1,1,0,"Lena","Roman","2142 Capitol Avenue",47374
+"290",3,0,0,16,4,26,0,0,1,0,"Lyle","Dedeaux","4067 Edsel Road",90017
+"291",3,0,0,12,25,43,1,0,1,0,"Nancy","Muse","1861 Gladwell Street",75247
+"292",3,0,0,12,8,26,0,0,1,0,"Edward","Gough","4010 Terry Lane",32905
+"293",3,0,0,13,16,35,1,1,3,0,"Alberta","Brooks","1310 Masonic Drive",59050
+"294",3,0,0,12,5,23,0,0,3,1,"Jamie","Sherrard","4071 Woodland Drive",51106
+"295",3,0,0,13,31,50,0,0,3,0,"Thomas","Erickson","928 Harley Vincent Drive",44139
+"296",3,0,0,12,25,43,1,0,3,0,"Doris","Smith","2092 Frum Street",37203
+"297",3,0,0,12,15,33,1,1,3,0,"Angela","Berman","869 Willison Street",55429
+"298",3,0,0,14,15,35,1,1,3,1,"Janice","McGee","2463 August Lane",71201
+"299",3,0,0,12,0,18,1,0,3,0,"Carla","Davis","3926 Alexander Drive",76201
+"300",3,0,0,12,19,37,0,1,3,0,"Landon","Coffman","1478 Wood Duck Drive",49916
+"301",3,0,0,12,21,39,1,0,1,0,"Ethelene","Myers","2254 Tree Frog Lane",64070
+"302",3,0,0,12,6,24,1,0,3,0,"Connie","Meyer","1211 University Drive",60606
+"303",3,0,1,12,14,32,1,1,3,0,"Pearl","Vargas","2505 Freshour Circle",78258
+"304",3,0,0,13,30,49,1,1,3,0,"Dianne","Todd","1456 Midway Road",72936
+"305",3,0,0,12,8,26,1,0,3,0,"Robin","Thompson","4219 Big Elm",66214
+"306",3,0,1,9,33,48,0,0,3,0,"William","Young","1341 Asylum Avenue",6103
+"307",3,0,0,13,16,35,0,0,2,0,"Willard","Sanford","3090 Winifred Way",46041
+"308",3,0,0,12,20,38,1,0,3,1,"Lisa","Bogard","891 Mulberry Lane",33301
+"309",3,0,0,13,6,25,1,1,3,1,"Cassandra","McKnight","3944 Coal Street",16823
+"310",3,0,1,12,10,28,1,1,3,0,"Katy","Theriault","4359 Jarvisville Road",11101
+"311",3,0,0,13,1,20,1,0,3,1,"Paula","McKenzie","2326 Adams Avenue",20701
+"312",3,0,0,12,2,20,0,0,1,1,"Charles","Morgan","4705 Broadway Avenue",37377
+"313",3,0,0,13,0,19,1,0,3,1,"Mary","Martin","3321 Fittro Street",72211
+"314",3,0,0,16,17,39,0,1,1,0,"John","Bostic","4772 Jones Avenue",27101
+"315",3,0,0,12,8,26,1,0,3,0,"Thanh","Smith","1029 Skips Lane",85901
+"316",3,0,0,12,4,22,0,0,3,1,"Harry","Sloane","644 Ferguson Street",1610
+"317",3,0,0,12,15,33,1,0,3,0,"Marissa","Hoke","3948 Whiteman Street",8214
+"318",3,0,0,12,29,47,1,1,3,0,"Patricia","Daly","1008 Walkers Ridge Way",91744
+"319",3,0,0,12,23,41,1,1,1,1,"Rosa","Nies","2270 Peaceful Lane",44125
+"320",3,0,0,12,39,57,1,1,3,1,"Robin","Mayo","4821 Rosewood Court",56101
+"321",3,0,0,12,14,32,1,1,3,1,"Olive","Mendelsohn","737 Marion Street",5868
+"322",3,0,0,17,6,29,1,0,1,1,"Martha","Cummings","693 Woodridge Lane",38017
+"323",3,0,1,14,12,32,0,1,3,1,"Ty","Miller","1352 Hanifan Lane",30076
+"324",3,0,0,12,26,44,1,0,3,1,"Paula","Lee","4586 Gateway Avenue",93301
+"325",3,0,0,14,32,52,1,1,3,0,"Sarah","White","3288 Kuhl Avenue",30303
+"326",3,0,0,15,6,27,1,1,3,0,"Robin","Turner","2331 Del Dew Drive",20024
+"327",3,0,0,12,40,58,1,1,3,0,"Waltraud","Simon","2308 Charack Road",47201
+"328",3,1,0,12,18,36,1,1,3,0,"Jessica","Jackson","239 Lilac Lane",31401
+"329",3,0,0,11,12,29,1,0,3,0,"Edith","Moreno","4743 Cityview Drive",19457
+"330",3,2,0,12,36,54,1,1,3,1,"Estelle","Downs","1186 Formula Lane",75234
+"331",3,0,0,12,19,37,1,1,3,0,"Eva","Braxton","2983 Murphy Court",92370
+"332",3,1,0,16,42,64,1,0,3,0,"Michelle","Thomason","2169 Alfred Drive",11234
+"333",3,0,0,13,2,21,1,1,2,0,"Hiroko","Boggs","2324 Cambridge Drive",85027
+"334",3,0,0,12,33,51,1,1,3,0,"Monika","Kennedy","806 Spring Haven Trail",7470
+"335",3,0,0,12,14,32,1,1,3,1,"Kay","Langhorne","4616 Edwards Street",27804
+"336",3,0,0,12,22,40,0,0,3,0,"Jackson","Christiansen","3939 Radio Park Drive",31903
+"337",3,0,0,12,20,38,1,1,3,0,"Lupe","Parrish","2431 Cimmaron Road",92680
+"338",3,0,0,12,15,33,1,1,3,0,"Reatha","Benton","735 Riverside Drive",30643
+"339",3,0,0,12,35,53,0,1,3,0,"Daniel","Gonzalez","365 Cinnamon Lane",78217
+"340",3,0,0,12,7,25,1,1,3,0,"Maria","Barton","4757 Seth Street",78672
+"341",3,1,0,12,45,63,1,0,3,0,"Sandra","Park","1077 Whitman Court",6511
+"342",3,0,0,12,9,27,1,0,3,0,"Marilyn","Earls","1204 Bombardier Way",43085
+"343",3,0,0,12,2,20,1,1,3,1,"Grace","McGowan","4402 Wines Lane",77032
+"344",3,0,0,17,3,26,0,0,3,1,"John","Fernandez","1947 Formula Lane",75207
+"345",3,0,1,14,19,39,1,1,1,0,"Kimberly","Wright","1209 Yorkie Lane",31405
+"346",3,0,0,12,14,32,1,1,3,1,"Rhonda","Rivera","3444 Weekley Street",78212
+"347",4,0,0,4,54,64,0,1,3,0,"Clarence","Richards","4391 Jehovah Drive",22401
+"348",4,0,0,14,17,37,0,1,3,0,"Albert","Murphy","4271 Logan Lane",80202
+"349",4,0,0,8,29,43,1,1,1,0,"Patricia","Waldrep","4045 Havanna Street",27107
+"350",4,0,0,15,26,47,1,0,3,1,"Karen","Weathers","4715 Anmoore Road",11103
+"351",4,0,0,2,16,24,0,0,2,0,"Kurt","Robertson","1430 Rockford Mountain Lane",27577
+"352",4,0,0,8,29,43,1,0,1,0,"Regina","Ries","64 Augusta Park",25504
+"353",4,0,0,11,20,37,1,1,3,0,"Lavern","Baker","376 Holt Street",33401
+"354",4,0,0,10,38,54,1,1,1,1,"Sandy","Savage","2004 Red Dog Road",28202
+"355",4,0,0,8,37,51,1,1,1,1,"Michelle","Brace","581 Wescam Court",89511
+"356",4,0,0,9,48,63,0,0,3,0,"Hector","McDonald","4278 Pike Street",92103
+"357",4,0,0,12,16,34,1,0,3,0,"Eileen","Eggert","34 Carter Street",62434
+"358",4,0,0,8,38,52,1,1,3,0,"Wilma","Urban","543 Philli Lane",74119
+"359",4,0,0,14,0,20,0,0,1,0,"Theodore","Daniel","4558 Terra Cotta Street",55804
+"360",4,0,1,12,14,32,0,0,1,0,"Donald","Reed","2302 Roguski Road",71457
+"361",4,0,0,12,2,20,1,1,3,0,"Velma","Herring","3927 Mulberry Avenue",72211
+"362",4,0,0,16,21,43,0,1,3,0,"Warren","Holmes","4470 Asylum Avenue",6995
+"363",4,0,0,13,15,34,1,1,3,0,"Deirdre","Moore","3096 Private Lane",31701
+"364",4,0,0,16,20,42,1,0,3,0,"Kay","Haas","4121 Oak Lane",65233
+"365",4,0,0,14,12,32,1,1,3,0,"Jessica","Ward","3890 Farland Street",1581
+"366",4,0,0,12,7,25,0,0,2,1,"Michael","Boyd","4235 Cunningham Court",48075
+"367",4,0,0,11,4,21,0,1,3,0,"Melvin","Knowles","2844 Calvin Street",21202
+"368",4,0,0,13,9,28,0,1,3,1,"Jason","Adam","83 Franklee Lane",19108
+"369",4,0,0,12,43,61,1,1,2,1,"Lois","Velez","262 Ocala Street",32751
+"370",4,0,0,10,19,35,0,0,3,1,"Nathan","Rider","3330 Lauren Drive",53703
+"371",4,0,0,8,49,63,1,0,3,0,"Ella","Shields","947 Broaddus Avenue",40160
+"372",4,0,0,12,38,56,1,1,3,0,"Evelina","Crawford","3995 Bluff Street",21740
+"373",4,0,0,12,13,31,1,1,3,0,"Helen","Sauers","4857 Brown Street",94520
+"374",4,0,0,12,14,32,1,1,3,0,"Marietta","Miller","3089 Richards Avenue",95202
+"375",4,0,0,12,20,38,0,0,3,0,"Richard","Jaramillo","3150 Winifred Way",46016
+"376",4,0,0,12,7,25,1,0,3,0,"Peggy","Butler","2946 Jehovah Drive",22448
+"377",4,1,1,12,9,27,1,1,3,0,"Bonnie","Smith","4139 Oak Lane",64601
+"378",4,0,0,12,6,24,1,0,3,0,"Corazon","Patten","3678 May Street",42633
+"379",4,0,0,12,5,23,1,1,3,1,"Melissa","Lahti","3526 Drummond Street",7416
+"380",4,0,0,13,1,20,1,0,1,1,"Cynthia","McNeal","4586 Weekley Street",78237
+"381",4,0,1,14,22,42,0,1,3,0,"John","Hickson","2882 Pursglove Court",45406
+"382",4,0,0,12,24,42,1,1,3,0,"Shawna","Green","2145 Carriage Lane",43609
+"383",4,0,1,12,15,33,1,0,3,0,"Paulette","Roberson","4053 Melville Street",38374
+"384",4,0,0,11,8,25,1,1,3,1,"Ashley","Villareal","3522 Weekley Street",78205
+"385",4,0,0,11,17,34,1,1,3,1,"Kelli","Perrone","3114 Poe Lane",64110
+"386",4,0,0,12,2,20,0,0,1,1,"Anthony","Barnes","3610 Hornor Avenue",74020
+"387",4,0,0,12,20,38,0,1,3,1,"Lewis","Fry","2481 Five Points",21201
+"388",4,0,1,12,26,44,0,1,3,0,"Scott","Martinez","302 Sheila Lane",84728
+"389",4,0,0,10,37,53,1,1,1,1,"Maxine","Giroux","1158 Turkey Pen Road",10038
+"390",4,0,0,12,41,59,1,0,3,0,"Deborah","Morin","3576 Massachusetts Avenue",20024
+"391",4,0,0,12,27,45,1,1,3,0,"Erin","Sims","527 Bird Spring Lane",77060
+"392",4,0,1,12,5,23,1,1,3,0,"Rose","Barefoot","2489 Chapel Street",77056
+"393",4,0,0,14,16,36,0,1,1,0,"Earl","Pettyjohn","1194 Rosewood Court",55415
+"394",4,0,0,14,19,39,1,1,3,0,"Misty","Kelly","2738 Saint James Drive",17013
+"395",4,0,0,12,10,28,0,1,3,0,"Jose","Wiley","3811 Charack Road",47802
+"396",4,0,1,13,1,20,0,0,3,1,"Jeffery","Robinson","4108 Maple Street",90017
+"397",4,0,1,12,43,61,1,1,1,0,"Louise","Swartz","3143 Asylum Avenue",6902
+"398",4,0,0,13,3,22,0,0,1,0,"Matthew","Collins","2568 Eagle Street",62901
+"399",4,0,0,12,0,18,1,0,3,0,"Estelle","Robinette","1549 Leo Street",80015
+"400",4,0,0,12,26,44,1,1,3,1,"Tiffany","Contreras","4613 Queens Lane",23004
+"401",4,0,1,10,25,41,1,1,3,0,"Lena","Puckett","700 Hershell Hollow Road",37601
+"402",4,0,0,12,15,33,1,1,3,0,"Judith","Aguero","3492 Davis Avenue",95540
+"403",4,0,0,14,10,30,1,0,3,1,"Ana","Baldwin","555 Charla Lane",75000
+"404",4,0,1,11,45,62,1,0,3,0,"Mary","Bloom","4838 Riverside Drive",30901
+"405",4,0,0,11,3,20,0,0,1,0,"Craig","Flanagan","182 Oakway Lane",90040
+"406",4,0,1,8,47,61,0,1,2,0,"Philip","Levi","4050 Hart Ridge Road",48607
+"407",4,0,0,16,6,28,1,1,1,0,"Sheryl","Myers","4205 Tree Frog Lane",64106
+"408",4,0,0,10,33,49,1,0,3,1,"Phyllis","Wiseman","949 Roosevelt Street",94112
+"409",4,1,0,16,3,25,0,0,3,0,"Larry","Schmidt","2982 Star Route",60106
+"410",4,0,1,14,4,24,0,0,2,0,"Rodney","Goodman","1037 Wolf Pen Road",94143
+"411",4,0,1,14,34,54,0,1,1,0,"Patrick","Rollins","702 Berkshire Circle",37917
+"412",4,0,0,11,39,56,0,1,3,1,"William","Cooper","2332 Woodstock Drive",91731
+"413",4,0,0,12,17,35,1,1,3,1,"Cathleen","Crane","4581 Del Dew Drive",20031
+"414",4,0,1,9,47,62,0,1,3,0,"Rene","Jenkins","2910 Woodland Avenue",70458
+"415",4,0,0,11,2,19,0,0,3,0,"Joseph","Thames","4391 Ryder Avenue",98011
+"416",4,0,0,13,0,19,0,0,3,1,"Tyrone","Murphy","147 Southside Lane",90022
+"417",4,0,0,14,24,44,1,0,3,0,"Belle","Waddell","441 Stutler Lane",16803
+"418",4,0,1,12,25,43,0,1,1,0,"Kenneth","Matthews","272 Pursglove Court",45406
+"419",4,0,0,14,6,26,1,0,3,0,"Margaret","Beason","427 Metz Lane",8102
+"420",4,0,0,12,10,28,1,0,3,0,"Cindy","Shick","422 Marietta Street",94928
+"421",4,0,0,12,33,51,1,1,1,0,"Pat","Johnson","4398 Coburn Hollow Road",61375
+"422",4,0,0,12,12,30,0,0,3,0,"Harry","Landrum","820 Pearcy Avenue",46804
+"423",4,0,0,12,9,27,1,1,3,1,"Anna","Barr","2047 Stone Lane",19103
+"424",4,0,1,11,18,35,0,1,3,1,"John","Hendrix","1099 Post Avenue",60126
+"425",4,0,0,12,10,28,0,1,3,0,"James","Heller","2781 Pointe Lane",33064
+"426",4,0,0,8,45,59,1,0,3,1,"Sara","Stubbs","961 Rockford Mountain Lane",54302
+"427",4,0,1,9,46,61,1,1,3,0,"Trudy","Moore","2626 Redbud Drive",11227
+"428",4,0,0,7,14,27,0,1,2,1,"Jose","Smith","321 Ferguson Street",2127
+"429",4,0,0,11,36,53,1,0,3,0,"Leona","Lukes","1502 Libby Street",90501
+"430",5,2,1,13,34,53,0,1,3,0,"Nicholas","Big","2648 Duck Creek Road",94306
+"431",5,0,0,18,15,39,0,1,3,0,"Wallace","Braden","1760 Mayo Street",40507
+"432",5,1,0,17,31,54,0,1,3,0,"Anthony","Khan","3981 Hilltop Drive",79101
+"433",5,1,0,16,6,28,1,0,3,0,"Samantha","Charette","1935 Flanigan Oaks Drive",20904
+"434",5,0,0,14,15,35,0,1,3,1,"Felipe","Huber","4157 Lilac Lane",31405
+"435",5,0,0,12,30,48,0,1,3,0,"Samuel","Stone","1444 Godfrey Street",97048
+"436",5,0,0,18,8,32,0,1,3,0,"David","McGreevy","4365 Weekley Street",78212
+"437",5,1,0,18,5,29,0,1,3,0,"Edward","Kelly","3351 Hickory Heights Drive",21090
+"438",5,0,1,17,3,26,1,0,3,0,"Leona","Roberts","2303 Lakewood Drive",8872
+"439",5,0,0,13,17,36,0,1,3,1,"Pedro","Johnston","339 Kerry Way",90241
+"440",5,1,1,16,5,27,0,1,1,0,"Brandon","Clark","2985 Main Street",98109
+"441",5,0,0,14,10,30,1,1,3,0,"Ella","Richie","237 Arbutus Drive",33012
+"442",5,0,0,15,33,54,1,0,3,0,"Angela","Gonzales","3433 Willow Greene Drive",36117
+"443",5,0,0,18,3,27,0,1,3,0,"Joshua","Cummings","1857 Fleming Street",36830
+"444",5,0,0,16,0,18,1,0,3,0,"Cheryl","Fay","1112 Grand Avenue",32751
+"445",5,0,0,16,13,35,0,1,1,1,"Dewey","Lester","4531 White Pine Lane",22960
+"446",5,0,0,18,12,36,0,1,3,0,"Scott","Bates","4103 Cerullo Road",40242
+"447",5,0,0,16,6,28,1,1,3,0,"Jana","Higgs","2618 Victoria Street",70806
+"448",5,0,0,17,7,30,0,1,3,0,"Douglas","Schaff","707 Werninger Street",77032
+"449",5,0,1,16,14,36,0,1,3,1,"William","Kessler","44 Ferry Street",35203
+"450",5,0,0,17,5,28,1,0,3,0,"Toni","Kenny","3978 Melm Street",32789
+"451",5,0,0,15,10,31,1,1,3,1,"Maryanne","Herrera","2499 Brannon Avenue",32202
+"452",5,0,0,18,11,35,1,1,3,0,"Stephanie","Halcomb","1615 Mudlick Road",99301
+"453",5,0,0,17,24,47,1,1,3,0,"Emily","Avery","3225 Blue Spruce Lane",21667
+"454",5,1,0,16,9,31,0,0,3,0,"Timothy","Fifer","2558 Cambridge Place",21202
+"455",5,0,0,18,12,36,0,1,3,1,"Don","Meeks","2636 Providence Lane",92614
+"456",5,0,0,18,19,43,0,1,3,0,"Thomas","Gordillo","2291 Arron Smith Drive",96814
+"457",5,0,0,14,14,34,1,1,3,0,"Marianne","Johnson","1311 Upton Avenue",4092
+"458",5,1,0,16,17,39,1,0,3,0,"Hester","Jenkins","3742 Hood Avenue",92111
+"459",5,0,0,18,7,31,0,0,3,1,"Marcel","Spence","1667 Big Elm",64106
+"460",5,0,0,18,7,31,0,1,3,0,"Christopher","Walker","2785 Harley Vincent Drive",44128
+"461",5,0,0,16,22,44,1,1,3,0,"Brooke","McVey","4968 Clifford Street",94578
+"462",5,0,0,12,28,46,1,1,3,0,"Nancy","Thole","3067 Grove Street",11735
+"463",5,0,0,16,16,38,1,0,3,0,"Samantha","Smith","3303 Wolf Pen Road",94063
+"464",5,0,0,16,16,38,0,0,1,1,"Daniel","Murphy","3467 Douglas Dairy Road",24230
+"465",5,0,0,16,7,29,1,1,3,0,"Michelle","Small","2755 Sardis Sta",75074
+"466",5,0,0,12,11,29,1,0,3,0,"Lorena","Reiter","52 Meadow View Drive",6109
+"467",5,0,0,12,11,29,1,1,3,0,"Gloria","Lineberger","2699 Polk Street",85705
+"468",5,0,0,12,16,34,1,0,3,0,"Elvira","Greenwood","2911 Hedge Street",7304
+"469",5,0,1,18,33,57,0,0,3,0,"David","Williams","2348 Geraldine Lane",10022
+"470",5,0,0,12,21,39,1,1,3,1,"Rose","Frazier","3405 Hillview Street",29210
+"471",5,1,0,16,4,26,0,1,3,0,"Charles","Howell","395 Clover Drive",80903
+"472",5,0,0,15,13,34,0,1,3,0,"Edward","Hale","3321 Rainbow Drive",44691
+"473",5,0,1,18,14,38,0,1,3,0,"Kristopher","Bowyer","2690 Brookview Drive",95113
+"474",5,0,0,16,10,32,1,1,3,0,"Emiko","Fox","4322 Aspen Court",2115
+"475",5,0,0,18,14,38,0,1,3,1,"Daryl","Martin","2118 Hartland Avenue",54301
+"476",5,0,0,16,29,51,0,1,3,1,"Dennis","Segovia","3788 Fulton Street",26062
+"477",5,0,0,12,4,22,0,0,2,0,"Michael","Sanders","2491 Kimberly Way",49503
+"478",5,0,0,18,27,51,0,1,1,0,"John","Graf","2393 Duck Creek Road",94612
+"479",5,0,0,12,3,21,0,1,3,0,"Ralph","Disney","1027 Beech Street",94104
+"480",5,0,1,16,14,36,0,1,3,1,"John","Mitchell","3443 Ash Avenue",63101
+"481",5,2,0,14,0,20,0,1,3,0,"Corey","Clayton","3552 Frum Street",37217
+"482",5,0,0,18,33,57,0,1,3,0,"Angel","Stokes","2772 Marigold Lane",33176
+"483",5,0,0,16,38,60,0,1,3,1,"Norman","Huff","4305 Atha Drive",93301
+"484",5,0,1,18,18,42,1,1,3,0,"Faith","Brown","2983 Hart Ridge Road",48624
+"485",5,1,0,17,3,26,0,0,3,0,"Matthew","Vine","651 Steele Street",61257
+"486",5,0,0,18,40,64,1,0,3,0,"Nicole","Montana","4899 Edgewood Avenue",93710
+"487",5,1,0,14,19,39,0,0,3,0,"Jan","Dennison","1933 Calico Drive",98801
+"488",5,0,0,14,4,24,1,0,3,0,"June","Miller","2658 College Street",30030
+"489",5,0,0,16,11,33,1,1,3,0,"Lillian","Fuston","1013 Carolina Avenue",78501
+"490",5,0,0,16,16,38,1,1,3,0,"Ruth","Williams","4199 Junior Avenue",30303
+"491",5,0,0,14,22,42,0,1,3,0,"Melvin","Oliva","2964 Mandan Road",65207
+"492",5,0,1,17,13,36,1,0,3,0,"Gladys","Rush","4447 Brighton Circle Road",56301
+"493",5,0,1,16,28,50,1,1,3,1,"Virginia","Rood","2116 Confederate Drive",13021
+"494",5,0,0,16,10,32,1,1,3,0,"Patricia","Stevens","2587 Kooter Lane",28105
+"495",5,0,0,16,5,27,1,0,3,1,"Elena","Dunton","3720 Cedar Street",72201
+"496",5,0,0,15,5,26,0,0,3,0,"Lawrence","Myers","4231 Williams Lane",67202
+"497",5,1,0,18,37,61,1,0,3,0,"Sandra","Ramos","48 Gregory Lane",40299
+"498",5,0,1,17,26,49,1,1,3,0,"Pamela","Meeker","1087 Wakefield Street",19034
+"499",5,0,0,16,4,26,1,1,3,1,"Angelique","Tidwell","4898 Eagle Drive",48075
+"500",5,0,1,18,31,55,1,0,3,0,"Kathleen","Rittenberry","2896 Bee Street",49470
+"501",5,0,1,17,13,36,1,1,3,0,"Linda","Delamora","2211 Moonlight Drive",8232
+"502",5,0,0,12,42,60,1,1,3,0,"Margaret","Reeves","2223 Fairfield Road",53202
+"503",5,0,0,17,18,41,0,1,2,0,"John","Lineberry","4650 Oakridge Farm Lane",53525
+"504",5,0,0,12,3,21,1,1,3,0,"Alice","Rule","2333 Southern Avenue",50322
+"505",5,0,0,17,10,33,1,0,3,0,"Vilma","Cassell","4480 Cerullo Road",40299
+"506",5,0,1,16,10,32,1,0,3,0,"Mary","Pace","1484 Kincheloe Road",97006
+"507",5,0,0,16,17,39,1,1,2,0,"Robyn","Manuel","707 Randall Drive",96819
+"508",5,0,0,18,7,31,0,1,3,0,"Craig","Pena","2648 Lords Way",38371
+"509",5,0,0,16,14,36,1,1,3,0,"Beth","Hagan","3504 Hedge Street",7109
+"510",5,0,1,16,22,44,1,1,3,0,"Marianne","Hemmer","3315 Edwards Street",27834
+"511",5,0,0,17,14,37,1,1,3,0,"Kimberly","Sanders","269 Beech Street",94108
+"512",5,0,0,16,11,33,0,1,3,0,"Daniel","Clark","1069 Rosewood Lane",10003
+"513",5,0,1,18,23,47,0,1,3,0,"Michael","Adams","1092 Post Farm Road",30303
+"514",5,0,1,12,39,57,0,1,3,0,"Henry","Zinn","4510 Hiddenview Drive",44128
+"515",5,0,0,16,15,37,0,1,3,0,"Jerome","Moss","2160 Berkley Street",19034
+"516",5,0,0,14,15,35,1,0,2,0,"Teri","Hammonds","3909 Melrose Street",98935
+"517",5,0,0,16,10,32,0,0,3,0,"Mark","Obrien","413 Fort Street",98491
+"518",5,0,0,12,25,43,1,0,3,1,"Vernice","Tomaszewski","3787 Earnhardt Drive",40202
+"519",5,0,0,14,12,32,1,1,3,0,"Rita","Singleton","180 Hanover Street",10016
+"520",5,0,0,16,7,29,1,1,2,1,"Cherie","Cohen","4660 Bell Street",10007
+"521",5,0,1,17,7,30,0,1,3,0,"Wendell","McGrew","1334 Shinn Street",10016
+"522",5,1,0,16,17,39,0,1,3,0,"Richard","White","4959 Reppert Coal Road",48219
+"523",5,0,1,16,10,32,0,1,3,0,"Dennis","Jones","1955 Winding Way",2887
+"524",5,0,0,17,2,25,0,1,3,1,"Joseph","Meeker","3993 Coal Street",16335
+"525",5,0,1,9,34,49,1,1,1,1,"Martha","Matthews","3299 Bel Meadow Drive",92335
+"526",5,0,0,15,11,32,1,1,3,0,"Pat","Watkins","117 Highland View Drive",94260
+"527",5,0,0,15,10,31,0,0,3,0,"Joshua","Hall","566 Marion Drive",33624
+"528",5,0,0,12,12,30,0,1,3,1,"Jose","Meehan","2789 Hillhaven Drive",90017
+"529",5,0,1,16,6,28,1,0,3,0,"Laura","Cox","2204 Allison Avenue",23502
+"530",5,0,0,18,5,29,0,0,3,0,"Michael","McNear","3494 Davis Court",62960
+"531",5,0,0,12,33,51,1,1,1,0,"Barbara","Tompkins","2361 Havanna Street",27401
+"532",5,0,1,17,25,48,1,1,1,0,"Rosie","Hidalgo","52 Levy Court",1824
+"533",5,0,1,12,13,31,0,1,3,1,"Willard","Sage","1563 Oakmound Road",60657
+"534",5,1,0,16,33,55,0,1,3,0,"Brian","McCoy","2689 Duffy Street",46382
