@@ -8,7 +8,7 @@ d <- 5
 X <- matrix(rnorm(n*d), nrow = n, ncol = d)
 betastar <- c(1,1,-1,-1,0)
 
-# randomly 
+# randomly shuffly first 15% of observations
 alpha <- 0.15
 pistar <- c(sample(n*0.15), (n*0.15 + 1):n)
 
@@ -32,7 +32,7 @@ plot(robreg$xi, type = "h")
 abline(v = n*alpha, col = "red")
 
 sqrt(sum((robreg$beta - betastar)^2)) # estimation error of robust estimator
-sqrt(sum((coef(lm(y ~ X - 1)) - betastar)^2)) # estimation erro of naive estimator
+sqrt(sum((coef(lm(y ~ X - 1)) - betastar)^2)) # estimation error of naive estimator
 
 ###############################################################################
 

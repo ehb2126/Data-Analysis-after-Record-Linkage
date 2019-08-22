@@ -25,7 +25,7 @@ source("../code/lahiri_larsen.R")
 # approach I (allows for general Q, but if Q follows block structure this is slow)
 Q <- generate_Q_block(blockindex)
 betaQ <- lahiri_larsen(X, y, Q)
-coef(lm(y ~ Xpistar - 1))
+coef(lm(y ~ X - 1))
 
 # approach II (tailored to block structure, faster)
 betaQcheck <- coef(lahiri_larsen_block(X, y, blockindex))

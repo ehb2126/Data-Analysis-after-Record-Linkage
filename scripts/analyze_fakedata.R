@@ -22,7 +22,7 @@ set.seed(1427)
 
 wages_link<-fastLink(wages_dA, wages_dB, varnames = "ZIPCODE")
 
-matched_wages <- getMatches(wages_dA, wages_dB, wages_link)
+matched_wages <- getMatches(wages_dA, wages_dB, wages_link, combine.dfs = FALSE)
 
 dA<-matched_wages$dfA.match; dB<-matched_wages$dfB.match
 
