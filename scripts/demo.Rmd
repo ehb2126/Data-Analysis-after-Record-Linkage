@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Ground Truth: all variables with correct correspondence 
 
-- Import the original data and check perform a LS regression
+- Import the original data and perform a LS regression
 - This regression is the oracle model
 
 ```{r, echo=TRUE}
@@ -34,19 +34,25 @@ coef(lm0)
 
 ```
 
-## Importing wages data files
+## Importing tob linked data files
 
 - First import the data files.
 
 ```{r , echo = TRUE}
 
-wages_dA <- read.csv("../data/fakedata/wages_dA.csv", header = TRUE)
-wages_dB <- read.csv("../data/fakedata/wages_dB.csv", header = TRUE)
+wages_dA <- read.csv("../data/fakedata/wages_dA.csv",
+              header = TRUE)
+wages_dB <- read.csv("../data/fakedata/wages_dB.csv",
+              header = TRUE)
 
 ```
-
-
 - Check both data files
+
+
+## Importing tob linked data files
+
+
+
 - What variables are approriate for linkage?
 
 
@@ -77,7 +83,8 @@ help(fastLink)
 
 ```{r, echo=TRUE}
 set.seed(1427)
-wages_link<-fastLink(wages_dA, wages_dB, varnames = "ZIPCODE")
+wages_link<-fastLink(wages_dA, wages_dB,
+                     varnames = "ZIPCODE")
 ```
 
 
@@ -88,9 +95,11 @@ wages_link<-fastLink(wages_dA, wages_dB, varnames = "ZIPCODE")
 
 ```{r, echo=TRUE}
 matched_wages <- getMatches(wages_dA, 
-                  wages_dB, wages_link, combine.dfs = FALSE)
+                  wages_dB, wages_link,
+                  combine.dfs = FALSE)
 
-dA<-matched_wages$dfA.match; dB<-matched_wages$dfB.match
+dA<-matched_wages$dfA.match
+dB<-matched_wages$dfB.match
 ```
 ## Merging  these two files
 
@@ -150,9 +159,10 @@ coef(lm_merged)
 
 ```{r, echo= TRUE}
 library(MASS)
-rlm_merged <- rlm(log(WAGE) ~ B.SEX + EXPERIENCE + I(EXPERIENCE^2)  + 
-            EDUCATION + as.factor(OCCUPATION) + UNION,
-          data = merged_wages)
+rlm_merged <- rlm(log(WAGE) ~ B.SEX + EXPERIENCE
+              + I(EXPERIENCE^2) + EDUCATION + 
+                as.factor(OCCUPATION) + UNION,
+                data = merged_wages)
 ```
 - Comparing estimation error of naive and robust estimation 
 
@@ -176,14 +186,15 @@ yc <- y - mean(y)
 tausq <- mean(yc^2)
 f0 <- function(z) dnorm(z, mean = 0, sd = sqrt(tausq))
 
-res <- fit_mixture(Xc, yc, f0, control = list(init = "robust"))
+res <- fit_mixture(Xc, yc, f0,
+                   control = list(init = "robust"))
 interc <- mean(y - X %*% res$betahat)
 ```
 
 
 ## Comparing the results
 
-- Compute  $\| \widehat{\beta} - \widehat{\beta}_{LS}\|$, where $\widehat{\beta}_{LS}$ denotes the estimates from the original LS regression model with original data and $\widehat{\beta}$ is the estimate from, \text{N\"ive}, Huber, or mixture models.
+- Compute  $\| \widehat{\beta} - \widehat{\beta}_{LS}\|$, where $\widehat{\beta}_{LS}$ denotes the estimates from the original LS regression model with original data and $\widehat{\beta}$ is the estimate from, \text{N\"aive}, Huber, or mixture models.
 
 ```{r, echo= TRUE}
 coef_mixture <- c(interc, res$betahat)
@@ -199,11 +210,8 @@ sqrt(sum((coef(lm0) - coef(lm_merged))^2))
 ```
 
 
-## Blocking method using information information about the linkage process
 
-
-
-## Histohram of duplicates
+## Historam of duplicates
 
 ```{r, echo = FALSE, class = "blue-outline", fig.dim= c(4,3)}
 source("../code/lahiri_larsen.R")
