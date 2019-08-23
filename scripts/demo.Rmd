@@ -34,7 +34,7 @@ coef(lm0)
 
 ```
 
-## Importing tob linked data files
+## Importing two data files to be linked
 
 - First import the data files.
 
@@ -49,7 +49,7 @@ wages_dB <- read.csv("../data/fakedata/wages_dB.csv",
 - Check both data files
 
 
-## Importing tob linked data files
+## What variables can be used as matching variables?
 
 
 
