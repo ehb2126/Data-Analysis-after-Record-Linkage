@@ -211,7 +211,7 @@ sqrt(sum((coef(lm0) - coef(lm_merged))^2))
 
 
 
-## Historam of duplicates
+## Histogram of duplicates
 
 ```{r, echo = FALSE, class = "blue-outline", fig.dim= c(4,3)}
 source("../code/lahiri_larsen.R")
