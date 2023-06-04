@@ -1,0 +1,148 @@
+---
+title: "fastLink tutorial"
+author: "Emanuel Ben-David"
+date: "`r Sys.Date()`"
+output:
+  beamer_presentation: default
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is fastLink?
+
+-   **fastLink** is an **R** package for Fast Probabilistic Record Linkage
+
+-   fastLink to some degree can handle missing data
+
+-   It is amenable to parallel computing, using the number of cores in the
+    computer
+
+-   **splink** is essentially a translation of fastLink to python language, with
+spark capability, for **python users**.
+
+-   It is written by **Ted Enamorado** [aut, cre], Ben Fifield [aut], Kosuke Imai
+
+## Linking two files
+
+We would like to link two data files: dfA and dfB. The main function for linking
+is fastlink().
+
+fastLink(dfA, dfB, varnames, stringdist.match, stringdist.method, numeric.match,
+partial.match, cut.a, cut.p, ...)
+
+-   "**varnames**": vector of matching variables.
+-   Must be present in both dfA and dfB
+-   "**stringdist.match**": vector of string variables in "varnames"
+-   "**stringdist.method**": default is jw" for Jaro-Winkler, other options are 
+"jaro" for Jaro, and "lv" for edit.
+
+##   Linking files with fastlink() continued 
+
+-   **"numeric.match": numeric** variables for numeric matching
+
+-   **"partial.match":** string variables among "**stringdist.match" variables**
+    for partial matching.
+-   "**cut.a**": lower bound for full string-distance match, ranging between 0
+     and 1. Default is 0.94
+-   "**cut.p**": Lower bound for partial string-distance match, ranging between
+    0 and 1. Default is 0.88
+-   "**n.cores**": number of cores to parallelize over. Default is NULL.    
+    
+-  We can use "getMatches()" function to get the matches.
+
+-  The arguments for "getMatches()" are:
+
+-  dfA: files A
+-  dfB : file B
+-  fl.out: the output of "fastlink()" in the setp above.
+
+
+    
+## Slide with R Output
+
+```{r}
+library(fastLink)
+help("fastLink")
+```
+
+-  For demo, we uplaod file_a and file_b.
+
+```{r echo = F, include=FALSE}
+library(readxl)
+file_a <- read_excel("/home/emanuelben-david/IISA_short_course/data/file_a.xlsx")
+
+file_b <- read_excel("/home/emanuelben-david/IISA_short_course/data/file_a.xlsx")
+
+```
+
+` Let's see the variables in data files.
+
+```{r}
+colnames(file_a)
+colnames(file_b)
+```
+
+
+-   We link these two data files by blocking on
+"BirthYear".
+
+
+
+```{r echo=TRUE}
+library(dplyr)
+file_a_1850 <- file_a%>%filter(BirthYear == 1850)
+file_b_1850 <- file_b%>%filter(BirthYear == 1850)
+
+```
+
+- For this demo, we just link two blocks for "BirthYear" == 1850
+
+` Let's check the size of these blocks ("BirthYear" == 1850)
+
+```{r}
+file_a_1850%>%dim()
+file_b_1850%>%dim()
+
+```
+
+- For linking with fastLink, we set:
+```{r}
+varnames = c("LastName", "FirstName", "MiddleName")
+stringdist.match = c("LastName", "FirstName", "MiddleName")
+partial.match = "MiddleName"
+
+```
+
+-  We choose the DEFAULT values for the rest of fastLink arguments.
+
+-  Now we apply fastlink()
+
+```{r}
+ 
+fastlink_out <- fastLink(file_a_1850, file_b_1850,
+                         varnames = varnames, stringdist.match = stringdist.match, partial.match = partial.match)
+
+```
+
+` Using getMatches() we obtain the mathces in each files.
+
+```{r echo=TRUE}
+
+matches_ab_1850 <- getMatches(file_a_1850, file_b_1850, fastlink_out,
+                            combine.dfs = FALSE)
+  
+```
+
+
+- We check the matches:
+
+```{r}
+
+matches_ab_1850%>%head(4)
+matches_ab_1850%>%dim()
+
+```
